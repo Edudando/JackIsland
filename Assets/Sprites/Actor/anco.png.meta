@@ -1,0 +1,944 @@
+fileFormatVersion: 2
+guid: 6f5116aeaf1f4e84abd579f5738aca23
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2560794997796291694
+    second: anco_0
+  - first:
+      213: -1024866315237677693
+    second: anco_1
+  - first:
+      213: 3957656440561482794
+    second: anco_2
+  - first:
+      213: 2647580910986201976
+    second: anco_3
+  - first:
+      213: -6037033139748273279
+    second: anco_4
+  - first:
+      213: -7002520906672886045
+    second: anco_5
+  - first:
+      213: 7170555142857108065
+    second: anco_6
+  - first:
+      213: 6686838316982159771
+    second: anco_7
+  - first:
+      213: -320352677462332743
+    second: anco_8
+  - first:
+      213: 3257255588398565553
+    second: anco_9
+  - first:
+      213: 7540706735378751403
+    second: anco_10
+  - first:
+      213: 1332936240869292986
+    second: anco_11
+  - first:
+      213: 4163875417450652855
+    second: anco_12
+  - first:
+      213: 5453259704791770073
+    second: anco_13
+  - first:
+      213: -4671734127312950211
+    second: anco_14
+  - first:
+      213: -4312349418692226928
+    second: anco_15
+  - first:
+      213: -5445550345451261294
+    second: anco_16
+  - first:
+      213: 5622029370953522675
+    second: anco_17
+  - first:
+      213: -1115268638856670015
+    second: anco_18
+  - first:
+      213: -8219691355925616556
+    second: anco_19
+  - first:
+      213: -5656950984712614721
+    second: anco_20
+  - first:
+      213: 1085959836599954930
+    second: anco_21
+  - first:
+      213: 5510275108977538677
+    second: anco_22
+  - first:
+      213: -1153762873925416154
+    second: anco_23
+  - first:
+      213: -8237268188663674868
+    second: anco_24
+  - first:
+      213: -3680947824647904840
+    second: anco_25
+  - first:
+      213: -2681653269711754711
+    second: anco_26
+  - first:
+      213: 1569777191673452741
+    second: anco_27
+  - first:
+      213: -5864623801818387273
+    second: anco_28
+  - first:
+      213: -1017792861394390383
+    second: anco_29
+  - first:
+      213: -29039205973213513
+    second: anco_30
+  - first:
+      213: 2048321174809951444
+    second: anco_31
+  - first:
+      213: 6544222771411984645
+    second: anco_32
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: anco_0
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 1964
+        width: 302
+        height: 349
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e64ce3a9b75c98320800000000000000
+      internalID: 2560794997796291694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anco_1
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 1966
+        width: 273
+        height: 346
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 385aef92481f6c1f0800000000000000
+      internalID: -1024866315237677693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anco_2
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 1964
+        width: 284
+        height: 343
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2c34ba609b6ce630800000000000000
+      internalID: 3957656440561482794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anco_3
+      rect:
+        serializedVersion: 2
+        x: 987
+        y: 1965
+        width: 287
+        height: 342
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87b0071afc81eb420800000000000000
+      internalID: 2647580910986201976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anco_4
+      rect:
+        serializedVersion: 2
+        x: 1289
+        y: 1964
+        width: 310
+        height: 343
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1830b005856283ca0800000000000000
+      internalID: -6037033139748273279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anco_5
+      rect:
+        serializedVersion: 2
+        x: 1609
+        y: 1964
+        width: 303
+        height: 339
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ee2489165c02de90800000000000000
+      internalID: -7002520906672886045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anco_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1601
+        width: 252
+        height: 305
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16a295449ede28360800000000000000
+      internalID: 7170555142857108065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anco_7
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 1601
+        width: 291
+        height: 304
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b99413a550c6ccc50800000000000000
+      internalID: 6686838316982159771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anco_8
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 1601
+        width: 264
+        height: 304
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ba2309efe0ed8bf0800000000000000
+      internalID: -320352677462332743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anco_9
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 1601
+        width: 296
+        height: 304
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b8072133b8143d20800000000000000
+      internalID: 3257255588398565553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anco_10
+      rect:
+        serializedVersion: 2
+        x: 1130
+        y: 1602
+        width: 256
+        height: 304
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: baf55adc2d8f5a860800000000000000
+      internalID: 7540706735378751403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anco_11
+      rect:
+        serializedVersion: 2
+        x: 1403
+        y: 1602
+        width: 263
+        height: 304
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abb3249e27a8f7210800000000000000
+      internalID: 1332936240869292986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anco_12
+      rect:
+        serializedVersion: 2
+        x: 1679
+        y: 1601
+        width: 273
+        height: 306
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b4a02a81ae09c930800000000000000
+      internalID: 4163875417450652855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anco_14
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 1275
+        width: 288
+        height: 314
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3c2178209aaa2fb0800000000000000
+      internalID: -4671734127312950211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anco_15
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 1229
+        width: 249
+        height: 359
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 090dc7f2d057724c0800000000000000
+      internalID: -4312349418692226928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anco_16
+      rect:
+        serializedVersion: 2
+        x: 1185
+        y: 1227
+        width: 250
+        height: 360
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2923fd400d48d64b0800000000000000
+      internalID: -5445550345451261294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anco_17
+      rect:
+        serializedVersion: 2
+        x: 1649
+        y: 1229
+        width: 288
+        height: 358
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fd5f741de5750e40800000000000000
+      internalID: 5622029370953522675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anco_18
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 816
+        width: 411
+        height: 333
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c490d7f415c580f0800000000000000
+      internalID: -1115268638856670015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anco_19
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 816
+        width: 357
+        height: 334
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45864b6f24acded80800000000000000
+      internalID: -8219691355925616556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anco_20
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 815
+        width: 355
+        height: 335
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbc886c1d097e71b0800000000000000
+      internalID: -5656950984712614721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anco_21
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 815
+        width: 351
+        height: 335
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fda1ecb7ba121f00800000000000000
+      internalID: 1085959836599954930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anco_23
+      rect:
+        serializedVersion: 2
+        x: 1550
+        y: 815
+        width: 360
+        height: 334
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62b44a077c20dffe0800000000000000
+      internalID: -1153762873925416154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anco_24
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 482
+        width: 365
+        height: 321
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c08831fa9385fad80800000000000000
+      internalID: -8237268188663674868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anco_25
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 482
+        width: 303
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b16d1bb475aaecc0800000000000000
+      internalID: -3680947824647904840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anco_26
+      rect:
+        serializedVersion: 2
+        x: 1476
+        y: 482
+        width: 269
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92ae0182f8ad8cad0800000000000000
+      internalID: -2681653269711754711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anco_27
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 92
+        width: 263
+        height: 333
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c8d43ee908f8c510800000000000000
+      internalID: 1569777191673452741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anco_28
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 92
+        width: 265
+        height: 333
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bc605f69bbac9ea0800000000000000
+      internalID: -5864623801818387273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anco_29
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 92
+        width: 265
+        height: 333
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 192b8a9f8c210e1f0800000000000000
+      internalID: -1017792861394390383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anco_30
+      rect:
+        serializedVersion: 2
+        x: 988
+        y: 91
+        width: 262
+        height: 333
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7be386bfef4d89ff0800000000000000
+      internalID: -29039205973213513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anco_31
+      rect:
+        serializedVersion: 2
+        x: 1301
+        y: 90
+        width: 267
+        height: 333
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dc357a81491d6c10800000000000000
+      internalID: 2048321174809951444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anco_32
+      rect:
+        serializedVersion: 2
+        x: 1616
+        y: 90
+        width: 264
+        height: 334
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 501a80510ffb1da50800000000000000
+      internalID: 6544222771411984645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 7e498fa837f509540bd03b579e06e0c3
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      anco_0: 2560794997796291694
+      anco_1: -1024866315237677693
+      anco_10: 7540706735378751403
+      anco_11: 1332936240869292986
+      anco_12: 4163875417450652855
+      anco_13: 5453259704791770073
+      anco_14: -4671734127312950211
+      anco_15: -4312349418692226928
+      anco_16: -5445550345451261294
+      anco_17: 5622029370953522675
+      anco_18: -1115268638856670015
+      anco_19: -8219691355925616556
+      anco_2: 3957656440561482794
+      anco_20: -5656950984712614721
+      anco_21: 1085959836599954930
+      anco_22: 5510275108977538677
+      anco_23: -1153762873925416154
+      anco_24: -8237268188663674868
+      anco_25: -3680947824647904840
+      anco_26: -2681653269711754711
+      anco_27: 1569777191673452741
+      anco_28: -5864623801818387273
+      anco_29: -1017792861394390383
+      anco_3: 2647580910986201976
+      anco_30: -29039205973213513
+      anco_31: 2048321174809951444
+      anco_32: 6544222771411984645
+      anco_4: -6037033139748273279
+      anco_5: -7002520906672886045
+      anco_6: 7170555142857108065
+      anco_7: 6686838316982159771
+      anco_8: -320352677462332743
+      anco_9: 3257255588398565553
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

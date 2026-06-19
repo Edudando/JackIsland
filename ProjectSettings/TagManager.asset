@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 3
+  tags:
+  - Items
+  - Enemies
+  - Fondo
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Bakground
+    uniqueID: 1349328821
+    locked: 0
+  - name: WalkinFront
+    uniqueID: 1527338435
+    locked: 0
+  - name: Collision
+    uniqueID: 1018558295
+    locked: 0
+  - name: Player
+    uniqueID: 810582881
+    locked: 0
+  - name: WalkinBack
+    uniqueID: 1462769961
+    locked: 0
+  - name: Decoration
+    uniqueID: 335931661
+    locked: 0
+  m_RenderingLayers:
+  - Default
