@@ -1,0 +1,18 @@
+{
+  "dialogos": [
+    {
+      "id": "pista_playa",
+      "frases": [
+        "Oye Jack, este parece un buen sitio para acampar.",
+        "Deberíamos explorar la zona antes de anochecer."
+      ]
+    },
+    {
+      "id": "frio_fogata",
+      "frases": [
+        "Maldita sea Jack, hace mucho frío. Si no prendemos una fogata mañana estaremos congelados.",
+        "Busca por la playa, necesitamos encontrar un hacha tirada para cortar esa madera."
+      ]
+    }
+  ]
+}

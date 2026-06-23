@@ -1,33 +1,37 @@
 /**
  * @author Eduardo Ortega
  * @email eduardoortega@live.com.ar
- * @create date 22-06-2026 00:17:44
- * @modify date 22-06-2026 00:17:44
+ * @create date 23-06-2026 16:05:01
+ * @modify date 23-06-2026 16:05:01
  * @desc [description]
  */
 using UnityEngine;
 
 public class TriggerInstruccion : MonoBehaviour
 {
-    [TextArea(2, 5)]
-    public string[] frasesDelLoro; // Escribe aquí lo que dirá en esta zona específica
+    public string archivoJson;
+    public string dialogoId;
 
     private void OnTriggerEnter2D(Collider2D collision)
     {
-        // Comprobamos si el que chocó es Jack
-        if (collision.CompareTag("Player"))
+        if (!collision.CompareTag("Player")) return;
+
+        var loro = collision.GetComponentInChildren<CompanionDialogue>();
+        if (loro == null) return;
+
+        // Busca el manager aunque no esté registrado aún
+        var manager = DialogoManager.Instance ?? FindObjectOfType<DialogoManager>();
+        if (manager == null)
         {
-            // Buscamos el script de diálogo en Jack
-            CompanionDialogue loro = collision.GetComponent<CompanionDialogue>();
-            
-            if (loro != null)
-            {
-                // Hacemos que hable y le pasamos las frases
-                loro.ShowDialogue(frasesDelLoro);
-                
-                // Destruimos esta zona invisible para que no repita el texto mil veces
-                Destroy(gameObject);
-            }
+            Debug.LogError("DialogoManager no existe en la escena");
+            return;
+        }
+
+        var frases = manager.GetFrases(archivoJson, dialogoId);
+        if (frases != null)
+        {
+            loro.ShowDialogue(frases);
+            Destroy(gameObject);
         }
     }
 }

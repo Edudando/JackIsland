@@ -1,0 +1,8 @@
+{
+  "dialogos": [
+    { "id": "frio_inicial",      "frases": ["Maldita sea Jack, hace mucho frío. Si no prendemos una fogata mañana estaremos congelados."] },
+    { "id": "sin_hacha",         "frases": ["Busca por la playa, necesitamos encontrar un hacha tirada para cortar esa madera."] },
+    { "id": "hacha_sin_equipar", "frases": ["¡Ya tienes el hacha! Toca su casillero en la barra inferior para equiparla en tu mano."] },
+    { "id": "hacha_equipada",    "frases": ["¡Bien equipado! Ahora haz clic directamente sobre la madera para empezar a cortarla."] }
+  ]
+}
