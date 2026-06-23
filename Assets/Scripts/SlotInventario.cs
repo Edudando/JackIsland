@@ -1,3 +1,10 @@
+/**
+ * @author Eduardo Ortega
+ * @email eduardoortega@live.com.ar
+ * @create date 22-06-2026 00:15:22
+ * @modify date 22-06-2026 00:15:22
+ * @desc [description]
+ */
 using UnityEngine;
 using UnityEngine.UI;
 
@@ -19,7 +26,7 @@ public class SlotInventario : MonoBehaviour
             // 1. Limpiamos los colores de todos los demás slots
             InventoryUI.Instance.DeseleccionarTodos();
             
-            // 2. "Iluminamos" este slot tiñendo el dibujo de amarillo (o el color que prefieras)
+            // 2. "Iluminamos" este slot tiñendo el dibujo de rojo
             miImagen.color = Color.red; // Cambia a rojo para destacar el slot seleccionado
             
             // 3. Le avisamos al Manager qué tenemos en la mano
@@ -32,7 +39,7 @@ public class SlotInventario : MonoBehaviour
     {
         nombreItem = ""; // Borramos el nombre del ítem
 
-        // Quitamos el dibujo del hacha para que se vea vacío
+        // Quitamos el dibujo del ítem para que se vea vacío
         miImagen.sprite = null; 
         
         // Le devolvemos el color normal (asumiendo que blanco es tu color por defecto)

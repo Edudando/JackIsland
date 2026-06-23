@@ -1,3 +1,10 @@
+/**
+ * @author Eduardo Ortega
+ * @email eduardoortega@live.com.ar
+ * @create date 22-06-2026 00:10:52
+ * @modify date 22-06-2026 00:10:52
+ * @desc [description]
+ */
 using UnityEngine;
 using System.Collections.Generic;
 
@@ -99,10 +106,6 @@ public class InventoryManager : MonoBehaviour
 
         // Vaciamos la selección porque el ítem ya fue usado
         itemSeleccionado = "";
-
-        // IMPORTANTE: Si tienes una interfaz gráfica (UI), debes actualizarla aquí
-        // para que el icono del ítem desaparezca de la pantalla.
-        // Ejemplo: inventoryUI.ActualizarVisuales();
-    }
+   }
 
 }

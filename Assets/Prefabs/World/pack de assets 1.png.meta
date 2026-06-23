@@ -1168,6 +1168,72 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
+    - serializedVersion: 2
+      name: pack de assets 1_48
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 149
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc2e4c7378ea4764e996c734c0edb773
+      internalID: 1420559794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pack de assets 1_49
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 149
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 680f04bb7c9584c40a88c203b2cca49d
+      internalID: 690788090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pack de assets 1_50
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 149
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88adf4b5a4227c44a897bb206f23eecf
+      internalID: -1855852026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     customData: 
     physicsShape: []
@@ -1227,7 +1293,10 @@ TextureImporter:
       pack de assets 1_45: 1189903228
       pack de assets 1_46: 587510803
       pack de assets 1_47: 1175611346
+      pack de assets 1_48: 1420559794
+      pack de assets 1_49: 690788090
       pack de assets 1_5: -1225337092
+      pack de assets 1_50: -1855852026
       pack de assets 1_6: 223475456
       pack de assets 1_7: 671429824
       pack de assets 1_8: -1249020655

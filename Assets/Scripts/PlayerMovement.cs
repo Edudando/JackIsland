@@ -1,3 +1,10 @@
+/**
+ * @author Eduardo Ortega
+ * @email eduardoortega@live.com.ar
+ * @create date 22-06-2026 00:14:36
+ * @modify date 22-06-2026 00:14:36
+ * @desc [description]
+ */
 using UnityEngine;
 using UnityEngine.InputSystem;
 using FMODUnity; // 1. Agrega la librería de FMOD aquí
