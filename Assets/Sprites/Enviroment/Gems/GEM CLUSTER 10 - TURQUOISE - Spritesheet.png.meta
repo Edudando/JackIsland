@@ -1,0 +1,1808 @@
+fileFormatVersion: 2
+guid: 148d585bda78be348bb30db7858bc610
+AssetOrigin:
+  serializedVersion: 1
+  productId: 277559
+  packageName: Pixel Art Gem Pack - Animated
+  packageVersion: 1.1
+  assetPath: Assets/karsiori/Sprites/GEM 10/GEM CLUSTER 10 - TURQUOISE - Spritesheet.png
+  uploadId: 670285
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: GEM CLUSTER 10 - TURQUOISE - Spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 132
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faa1772ac3526324496055d4394d45cf
+      internalID: 1959466248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEM CLUSTER 10 - TURQUOISE - Spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 132
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6eab703615bcaae4db753e04e7b74d7b
+      internalID: -574681848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEM CLUSTER 10 - TURQUOISE - Spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 132
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a4fe18eb41f08e419541f7a0505a275
+      internalID: -88960054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEM CLUSTER 10 - TURQUOISE - Spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 132
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 620354311011bba4e96e77828802924b
+      internalID: 1033349393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEM CLUSTER 10 - TURQUOISE - Spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 132
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f8b8899fd816da46aad225b73450908
+      internalID: 1802976050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEM CLUSTER 10 - TURQUOISE - Spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 132
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e4f82ea59891df4886999784dbb7db4
+      internalID: -1747620504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEM CLUSTER 10 - TURQUOISE - Spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 132
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23bf43d84f8f23f41a2a612f118bb043
+      internalID: 1849838986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEM CLUSTER 10 - TURQUOISE - Spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 132
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7078c64b16ec024cbe85769d9ed598a
+      internalID: -1251511979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEM CLUSTER 10 - TURQUOISE - Spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 132
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9187385fb57824f40aa4bf68e66eb305
+      internalID: 132298496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEM CLUSTER 10 - TURQUOISE - Spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 132
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87907d3267b72024db0b6104ce51d18d
+      internalID: -1379689149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEM CLUSTER 10 - TURQUOISE - Spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 132
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0efd9d9e4e9dbde43ac8a4f39f53f398
+      internalID: 2140043090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEM CLUSTER 10 - TURQUOISE - Spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 132
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6357a177ee7d8c40a90105e738665f5
+      internalID: -1991067580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEM CLUSTER 10 - TURQUOISE - Spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 132
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3357cd646f06a441b6d43c079c5119a
+      internalID: 133516660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEM CLUSTER 10 - TURQUOISE - Spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 132
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 909c58cd1e2dca04c9f1c0a61e5ecc13
+      internalID: 1019870809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEM CLUSTER 10 - TURQUOISE - Spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 132
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d9ba04408a1c414a94d5e7d2b8724a0
+      internalID: 667082421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEM CLUSTER 10 - TURQUOISE - Spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 132
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2353325dbca4fd442bc883c02e680292
+      internalID: 321453585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEM CLUSTER 10 - TURQUOISE - Spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 132
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bde9442ddc832474999b1d135b973ffd
+      internalID: -1326145758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEM CLUSTER 10 - TURQUOISE - Spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 132
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cad664a61d33e3e4ba94d7b21130d76e
+      internalID: -953878485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEM CLUSTER 10 - TURQUOISE - Spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 88
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b966ac1a3ad95749bea72a1bd5d1b40
+      internalID: 1092011489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEM CLUSTER 10 - TURQUOISE - Spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 88
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d5fcb11f4850c549983220c69881587
+      internalID: 1074760961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEM CLUSTER 10 - TURQUOISE - Spritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 88
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b16d931ea555f8e4188ddaa8b4255647
+      internalID: 318741387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEM CLUSTER 10 - TURQUOISE - Spritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 88
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c18c2624eab43141a1a26bdf949906f
+      internalID: 448716881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEM CLUSTER 10 - TURQUOISE - Spritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 88
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 020f2016471a4d145b81b9efdfbf9bd8
+      internalID: -658602816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEM CLUSTER 10 - TURQUOISE - Spritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 88
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56b5a79884a95694e991024df68751b3
+      internalID: 454657440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEM CLUSTER 10 - TURQUOISE - Spritesheet_24
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 88
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 622cc73c504b71d47832973c72a42a45
+      internalID: 355238127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEM CLUSTER 10 - TURQUOISE - Spritesheet_25
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 88
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63ea7093c3782bf418a3cf16a95b892f
+      internalID: 394641221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEM CLUSTER 10 - TURQUOISE - Spritesheet_26
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 88
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e8bce6f3d442ef4499aefa3c802c1d7
+      internalID: 952064390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEM CLUSTER 10 - TURQUOISE - Spritesheet_27
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 88
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7b77addb2a4d5e479de5490d23c1a94
+      internalID: -321978098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEM CLUSTER 10 - TURQUOISE - Spritesheet_28
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 88
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d3319fb86e089741b0d2cfe9f87d2d5
+      internalID: -949118444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEM CLUSTER 10 - TURQUOISE - Spritesheet_29
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 88
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76c1ad355ff17f145b74f03c2541fbb6
+      internalID: -733613387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEM CLUSTER 10 - TURQUOISE - Spritesheet_30
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 88
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bd322ca166c3df4aa06200d9abc9d02
+      internalID: -1726594367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEM CLUSTER 10 - TURQUOISE - Spritesheet_31
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 88
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ef8c44e0620d70488eef6565c21e958
+      internalID: 360668100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEM CLUSTER 10 - TURQUOISE - Spritesheet_32
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 88
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 359b528b665900e41a313c261098be01
+      internalID: 565532557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEM CLUSTER 10 - TURQUOISE - Spritesheet_33
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 88
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 693c3525865edb14db492762ab9da7df
+      internalID: 386950365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEM CLUSTER 10 - TURQUOISE - Spritesheet_34
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 88
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67ea8a3faae27c042b02339532db2760
+      internalID: 659608669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEM CLUSTER 10 - TURQUOISE - Spritesheet_35
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 88
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e017cca47108ede4084f5142e11331f2
+      internalID: -382598697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEM CLUSTER 10 - TURQUOISE - Spritesheet_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 44
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 628a8231fefcd5946a3ee17bec527b75
+      internalID: 2083377761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEM CLUSTER 10 - TURQUOISE - Spritesheet_37
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 44
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04487c3971c8fda4d8df6b82ee8f019e
+      internalID: -413258048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEM CLUSTER 10 - TURQUOISE - Spritesheet_38
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 44
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b395eda65063b8499e74569b9cf7615
+      internalID: 1445355384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEM CLUSTER 10 - TURQUOISE - Spritesheet_39
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 44
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d5c17ae0b898154485ebd197df8b5c3
+      internalID: -1039683838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEM CLUSTER 10 - TURQUOISE - Spritesheet_40
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 44
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c7e8e8e9ffb92648a18bbaa585e3edf
+      internalID: -196713631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEM CLUSTER 10 - TURQUOISE - Spritesheet_41
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 44
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fa5c7be73aac994e9f1fcd248db8998
+      internalID: -1927913004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEM CLUSTER 10 - TURQUOISE - Spritesheet_42
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 44
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61f048a124b82984e9540d80e2478349
+      internalID: 2079542948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEM CLUSTER 10 - TURQUOISE - Spritesheet_43
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 44
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4b78786908dc704b827734f02676859
+      internalID: -1359156273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEM CLUSTER 10 - TURQUOISE - Spritesheet_44
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 44
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdcd6a163c70f9643bfb7c4f7bd9e324
+      internalID: 1994921575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEM CLUSTER 10 - TURQUOISE - Spritesheet_45
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 44
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce2bdb378a753c9428aa0df82d23d8c4
+      internalID: -565302820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEM CLUSTER 10 - TURQUOISE - Spritesheet_46
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 44
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1faf145718762f546a78e38dbd371248
+      internalID: 325266041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEM CLUSTER 10 - TURQUOISE - Spritesheet_47
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 44
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 354287ba5fdcd444a8298dc0959e3c52
+      internalID: -1212395831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEM CLUSTER 10 - TURQUOISE - Spritesheet_48
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 44
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fb121edc0290804ab52ba1bb00bebac
+      internalID: 687071663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEM CLUSTER 10 - TURQUOISE - Spritesheet_49
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 44
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e4728d05ba227a42a2e5c2066d2dbd5
+      internalID: 197165550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEM CLUSTER 10 - TURQUOISE - Spritesheet_50
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 44
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cca1ca45220475b43b3ee348c1e1f3bb
+      internalID: 1678262861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEM CLUSTER 10 - TURQUOISE - Spritesheet_51
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 44
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af543224f18b7714b894f60f058acc41
+      internalID: 1826316682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEM CLUSTER 10 - TURQUOISE - Spritesheet_52
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 44
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1aa18587e0446845b6615c55b33fb4d
+      internalID: -1524896344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEM CLUSTER 10 - TURQUOISE - Spritesheet_53
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 44
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c2d176f1877cc3478b2f58240af5edb
+      internalID: -1083111841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEM CLUSTER 10 - TURQUOISE - Spritesheet_54
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e57b7d8517746c546bf562bb880e8c2e
+      internalID: 1473593937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEM CLUSTER 10 - TURQUOISE - Spritesheet_55
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 0
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2029ac506fe2ab6419b1a74280e48c9e
+      internalID: -1429970431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEM CLUSTER 10 - TURQUOISE - Spritesheet_56
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 0
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee1ca84858eb3bc40ba860324d3bf4a0
+      internalID: 81391823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEM CLUSTER 10 - TURQUOISE - Spritesheet_57
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 0
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dd8b54ad4ecce84dae2612637eff609
+      internalID: -93991118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEM CLUSTER 10 - TURQUOISE - Spritesheet_58
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 0
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64870b0f9f7735f4c8622a13e0d0d81c
+      internalID: 127865557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEM CLUSTER 10 - TURQUOISE - Spritesheet_59
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 0
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: becba1637100acd4c8d3a023366f5711
+      internalID: -302121241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEM CLUSTER 10 - TURQUOISE - Spritesheet_60
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 0
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e556cb8948a88084fb2c1a65a40a98d4
+      internalID: -826732693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEM CLUSTER 10 - TURQUOISE - Spritesheet_61
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 0
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2d477db1f1190c4cbad421627e77022
+      internalID: -520147866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEM CLUSTER 10 - TURQUOISE - Spritesheet_62
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 0
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5ee6912686091046a18e117aadddc33
+      internalID: 1718192016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEM CLUSTER 10 - TURQUOISE - Spritesheet_63
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 0
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 298f890c01478a54799b5419facb4fef
+      internalID: 2123169102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEM CLUSTER 10 - TURQUOISE - Spritesheet_64
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 0
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2569e3915393a24d8cd42ce0b8fc947
+      internalID: -1388998238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEM CLUSTER 10 - TURQUOISE - Spritesheet_65
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 0
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19ea1fb84159ffb4bb9afe61e792335c
+      internalID: -1530746424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEM CLUSTER 10 - TURQUOISE - Spritesheet_66
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 0
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48c54ea858b92114f9a3056742b2f29c
+      internalID: -974785314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEM CLUSTER 10 - TURQUOISE - Spritesheet_67
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 0
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b975b1fda549f54f85fe687ac5fc16d
+      internalID: -589183186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEM CLUSTER 10 - TURQUOISE - Spritesheet_68
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 0
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42c58d1c98918504e96b6e03b5866897
+      internalID: -1892610400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEM CLUSTER 10 - TURQUOISE - Spritesheet_69
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 0
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d72ceedb61c08ba42a54af80afafb1fa
+      internalID: 1321956439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEM CLUSTER 10 - TURQUOISE - Spritesheet_70
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 0
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fce9725034d0414891decf3404084c5
+      internalID: 463689172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEM CLUSTER 10 - TURQUOISE - Spritesheet_71
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 0
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a094daba4bd0c5e418267a17152e1bc2
+      internalID: 896704994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":18.0,"y":4.0},"gridSpriteSize":{"x":44.0,"y":44.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      GEM CLUSTER 10 - TURQUOISE - Spritesheet_0: 1959466248
+      GEM CLUSTER 10 - TURQUOISE - Spritesheet_1: -574681848
+      GEM CLUSTER 10 - TURQUOISE - Spritesheet_10: 2140043090
+      GEM CLUSTER 10 - TURQUOISE - Spritesheet_11: -1991067580
+      GEM CLUSTER 10 - TURQUOISE - Spritesheet_12: 133516660
+      GEM CLUSTER 10 - TURQUOISE - Spritesheet_13: 1019870809
+      GEM CLUSTER 10 - TURQUOISE - Spritesheet_14: 667082421
+      GEM CLUSTER 10 - TURQUOISE - Spritesheet_15: 321453585
+      GEM CLUSTER 10 - TURQUOISE - Spritesheet_16: -1326145758
+      GEM CLUSTER 10 - TURQUOISE - Spritesheet_17: -953878485
+      GEM CLUSTER 10 - TURQUOISE - Spritesheet_18: 1092011489
+      GEM CLUSTER 10 - TURQUOISE - Spritesheet_19: 1074760961
+      GEM CLUSTER 10 - TURQUOISE - Spritesheet_2: -88960054
+      GEM CLUSTER 10 - TURQUOISE - Spritesheet_20: 318741387
+      GEM CLUSTER 10 - TURQUOISE - Spritesheet_21: 448716881
+      GEM CLUSTER 10 - TURQUOISE - Spritesheet_22: -658602816
+      GEM CLUSTER 10 - TURQUOISE - Spritesheet_23: 454657440
+      GEM CLUSTER 10 - TURQUOISE - Spritesheet_24: 355238127
+      GEM CLUSTER 10 - TURQUOISE - Spritesheet_25: 394641221
+      GEM CLUSTER 10 - TURQUOISE - Spritesheet_26: 952064390
+      GEM CLUSTER 10 - TURQUOISE - Spritesheet_27: -321978098
+      GEM CLUSTER 10 - TURQUOISE - Spritesheet_28: -949118444
+      GEM CLUSTER 10 - TURQUOISE - Spritesheet_29: -733613387
+      GEM CLUSTER 10 - TURQUOISE - Spritesheet_3: 1033349393
+      GEM CLUSTER 10 - TURQUOISE - Spritesheet_30: -1726594367
+      GEM CLUSTER 10 - TURQUOISE - Spritesheet_31: 360668100
+      GEM CLUSTER 10 - TURQUOISE - Spritesheet_32: 565532557
+      GEM CLUSTER 10 - TURQUOISE - Spritesheet_33: 386950365
+      GEM CLUSTER 10 - TURQUOISE - Spritesheet_34: 659608669
+      GEM CLUSTER 10 - TURQUOISE - Spritesheet_35: -382598697
+      GEM CLUSTER 10 - TURQUOISE - Spritesheet_36: 2083377761
+      GEM CLUSTER 10 - TURQUOISE - Spritesheet_37: -413258048
+      GEM CLUSTER 10 - TURQUOISE - Spritesheet_38: 1445355384
+      GEM CLUSTER 10 - TURQUOISE - Spritesheet_39: -1039683838
+      GEM CLUSTER 10 - TURQUOISE - Spritesheet_4: 1802976050
+      GEM CLUSTER 10 - TURQUOISE - Spritesheet_40: -196713631
+      GEM CLUSTER 10 - TURQUOISE - Spritesheet_41: -1927913004
+      GEM CLUSTER 10 - TURQUOISE - Spritesheet_42: 2079542948
+      GEM CLUSTER 10 - TURQUOISE - Spritesheet_43: -1359156273
+      GEM CLUSTER 10 - TURQUOISE - Spritesheet_44: 1994921575
+      GEM CLUSTER 10 - TURQUOISE - Spritesheet_45: -565302820
+      GEM CLUSTER 10 - TURQUOISE - Spritesheet_46: 325266041
+      GEM CLUSTER 10 - TURQUOISE - Spritesheet_47: -1212395831
+      GEM CLUSTER 10 - TURQUOISE - Spritesheet_48: 687071663
+      GEM CLUSTER 10 - TURQUOISE - Spritesheet_49: 197165550
+      GEM CLUSTER 10 - TURQUOISE - Spritesheet_5: -1747620504
+      GEM CLUSTER 10 - TURQUOISE - Spritesheet_50: 1678262861
+      GEM CLUSTER 10 - TURQUOISE - Spritesheet_51: 1826316682
+      GEM CLUSTER 10 - TURQUOISE - Spritesheet_52: -1524896344
+      GEM CLUSTER 10 - TURQUOISE - Spritesheet_53: -1083111841
+      GEM CLUSTER 10 - TURQUOISE - Spritesheet_54: 1473593937
+      GEM CLUSTER 10 - TURQUOISE - Spritesheet_55: -1429970431
+      GEM CLUSTER 10 - TURQUOISE - Spritesheet_56: 81391823
+      GEM CLUSTER 10 - TURQUOISE - Spritesheet_57: -93991118
+      GEM CLUSTER 10 - TURQUOISE - Spritesheet_58: 127865557
+      GEM CLUSTER 10 - TURQUOISE - Spritesheet_59: -302121241
+      GEM CLUSTER 10 - TURQUOISE - Spritesheet_6: 1849838986
+      GEM CLUSTER 10 - TURQUOISE - Spritesheet_60: -826732693
+      GEM CLUSTER 10 - TURQUOISE - Spritesheet_61: -520147866
+      GEM CLUSTER 10 - TURQUOISE - Spritesheet_62: 1718192016
+      GEM CLUSTER 10 - TURQUOISE - Spritesheet_63: 2123169102
+      GEM CLUSTER 10 - TURQUOISE - Spritesheet_64: -1388998238
+      GEM CLUSTER 10 - TURQUOISE - Spritesheet_65: -1530746424
+      GEM CLUSTER 10 - TURQUOISE - Spritesheet_66: -974785314
+      GEM CLUSTER 10 - TURQUOISE - Spritesheet_67: -589183186
+      GEM CLUSTER 10 - TURQUOISE - Spritesheet_68: -1892610400
+      GEM CLUSTER 10 - TURQUOISE - Spritesheet_69: 1321956439
+      GEM CLUSTER 10 - TURQUOISE - Spritesheet_7: -1251511979
+      GEM CLUSTER 10 - TURQUOISE - Spritesheet_70: 463689172
+      GEM CLUSTER 10 - TURQUOISE - Spritesheet_71: 896704994
+      GEM CLUSTER 10 - TURQUOISE - Spritesheet_8: 132298496
+      GEM CLUSTER 10 - TURQUOISE - Spritesheet_9: -1379689149
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

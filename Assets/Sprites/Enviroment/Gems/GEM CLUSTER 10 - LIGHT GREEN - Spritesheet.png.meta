@@ -1,0 +1,1808 @@
+fileFormatVersion: 2
+guid: fd2de9816a9b4f54ba64ed3f77782a5c
+AssetOrigin:
+  serializedVersion: 1
+  productId: 277559
+  packageName: Pixel Art Gem Pack - Animated
+  packageVersion: 1.1
+  assetPath: Assets/karsiori/Sprites/GEM 10/GEM CLUSTER 10 - LIGHT GREEN - Spritesheet.png
+  uploadId: 670285
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: GEM CLUSTER 10 - LIGHT GREEN - Spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 132
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e628145e706e02e43ae750669b0c2773
+      internalID: -804841505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEM CLUSTER 10 - LIGHT GREEN - Spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 132
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 810e4c83d2e439c45afd9fc563424960
+      internalID: 55174290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEM CLUSTER 10 - LIGHT GREEN - Spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 132
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f55bece42a367264385ffdf292ff3ad0
+      internalID: -1963336177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEM CLUSTER 10 - LIGHT GREEN - Spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 132
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34741d3f348927b4bbcaaf59419d625e
+      internalID: 378202039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEM CLUSTER 10 - LIGHT GREEN - Spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 132
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78e1d871af0f64946ac5eb1f8c8aa0a0
+      internalID: -372952633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEM CLUSTER 10 - LIGHT GREEN - Spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 132
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6d75f49b39743747b8a07089a354579
+      internalID: -1882000305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEM CLUSTER 10 - LIGHT GREEN - Spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 132
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5172b55492009345b2cb96018c671eb
+      internalID: -1296984386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEM CLUSTER 10 - LIGHT GREEN - Spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 132
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbfcf560c3ceac3459890000810f1f3b
+      internalID: 454241977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEM CLUSTER 10 - LIGHT GREEN - Spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 132
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1057e0c697586346aab472a439d5daa
+      internalID: -1083038269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEM CLUSTER 10 - LIGHT GREEN - Spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 132
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c3653d055ba4434493eef1fcad8c6ac
+      internalID: 1397066055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEM CLUSTER 10 - LIGHT GREEN - Spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 132
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c558294492af9446a99fac52a81e283
+      internalID: -783703424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEM CLUSTER 10 - LIGHT GREEN - Spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 132
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 441fab499847fc843b7fe0f009b1e4df
+      internalID: 1125347442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEM CLUSTER 10 - LIGHT GREEN - Spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 132
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f700e44436638b847b5c5786c52eae01
+      internalID: -1985707929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEM CLUSTER 10 - LIGHT GREEN - Spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 132
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aeb46aa226d5be64b859908fb260dc2d
+      internalID: 1600459300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEM CLUSTER 10 - LIGHT GREEN - Spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 132
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5019a811abaf72647ad2dd83bd63d136
+      internalID: 414633187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEM CLUSTER 10 - LIGHT GREEN - Spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 132
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3bc87f1d58fbe040b1abeab9f20ba6d
+      internalID: 1399886989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEM CLUSTER 10 - LIGHT GREEN - Spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 132
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db25b3810532b804fb3a062581955804
+      internalID: 292394266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEM CLUSTER 10 - LIGHT GREEN - Spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 132
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e6257d8da8f0c946b983404c440ab3a
+      internalID: -1148517564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEM CLUSTER 10 - LIGHT GREEN - Spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 88
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b4b3adf2958d5e4991fc78645ad2772
+      internalID: -2045039706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEM CLUSTER 10 - LIGHT GREEN - Spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 88
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2679e0de679d3e34fa6ec0941bb9be6d
+      internalID: 811614246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEM CLUSTER 10 - LIGHT GREEN - Spritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 88
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da57b7b0eae09b141bd22fd40a158029
+      internalID: 1613854626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEM CLUSTER 10 - LIGHT GREEN - Spritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 88
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43f44d5085d818f47bfeca0334424b50
+      internalID: 1877713404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEM CLUSTER 10 - LIGHT GREEN - Spritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 88
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca5c14aad0794784590ea7d41a826c7f
+      internalID: 545604969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEM CLUSTER 10 - LIGHT GREEN - Spritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 88
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e37996bbac9e9c64cbb8c5b4a31e1730
+      internalID: 1061994106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEM CLUSTER 10 - LIGHT GREEN - Spritesheet_24
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 88
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d32aa90cb702b724393086b04119de3e
+      internalID: 1465092929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEM CLUSTER 10 - LIGHT GREEN - Spritesheet_25
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 88
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b01b648d60963034f90ec198c9505d43
+      internalID: -623433218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEM CLUSTER 10 - LIGHT GREEN - Spritesheet_26
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 88
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23336e4fdefcc9d4bb3a0ef3c4df66ab
+      internalID: -1641941940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEM CLUSTER 10 - LIGHT GREEN - Spritesheet_27
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 88
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab93a305b9ec024428681381fe5ea3bb
+      internalID: -1559718268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEM CLUSTER 10 - LIGHT GREEN - Spritesheet_28
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 88
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39797f6a3b933ed4194fab89d3174f16
+      internalID: -421211620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEM CLUSTER 10 - LIGHT GREEN - Spritesheet_29
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 88
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7718a7585e5eba4281dfcd100745cb9
+      internalID: 2122632276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEM CLUSTER 10 - LIGHT GREEN - Spritesheet_30
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 88
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4a83e205e7822843b1d7fc8779b6c71
+      internalID: -169141228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEM CLUSTER 10 - LIGHT GREEN - Spritesheet_31
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 88
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e70f8debc9d74a4582b0f2e0003a413
+      internalID: 1419293829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEM CLUSTER 10 - LIGHT GREEN - Spritesheet_32
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 88
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e594fcab50e359c4cb10b390472a8704
+      internalID: 1031687403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEM CLUSTER 10 - LIGHT GREEN - Spritesheet_33
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 88
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8577b562fa8e9d6418c94a1ab8388c3f
+      internalID: 1194178921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEM CLUSTER 10 - LIGHT GREEN - Spritesheet_34
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 88
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9787d5d4692783f47a0d5f9984d7758e
+      internalID: 1451831736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEM CLUSTER 10 - LIGHT GREEN - Spritesheet_35
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 88
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ff9b9ce73c5c79438ac812c249d722b
+      internalID: -1793991445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEM CLUSTER 10 - LIGHT GREEN - Spritesheet_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 44
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b24f3e07de5edb4485f5951a04c5d3b
+      internalID: -664514628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEM CLUSTER 10 - LIGHT GREEN - Spritesheet_37
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 44
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbcc71a9d7909e44e9e8911be36c75c5
+      internalID: -33977590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEM CLUSTER 10 - LIGHT GREEN - Spritesheet_38
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 44
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d832a63bb9228aa469a507ea730e6e2b
+      internalID: -1716657829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEM CLUSTER 10 - LIGHT GREEN - Spritesheet_39
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 44
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6fa081bc4ebca14a9fdea4284df2d37
+      internalID: 654986353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEM CLUSTER 10 - LIGHT GREEN - Spritesheet_40
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 44
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb5b618b90c208f44bd1bc4f40e75787
+      internalID: 1565057350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEM CLUSTER 10 - LIGHT GREEN - Spritesheet_41
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 44
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 150724003c031b347964839757b59ec8
+      internalID: -927497496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEM CLUSTER 10 - LIGHT GREEN - Spritesheet_42
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 44
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 640f1e4dfc41f1c4bab718726d6d8e38
+      internalID: 1967472632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEM CLUSTER 10 - LIGHT GREEN - Spritesheet_43
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 44
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c925269dc562f6f43beb339466057bb0
+      internalID: -566476159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEM CLUSTER 10 - LIGHT GREEN - Spritesheet_44
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 44
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94c2e98416502574db9ef0b8b1dfbffd
+      internalID: 974156862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEM CLUSTER 10 - LIGHT GREEN - Spritesheet_45
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 44
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45fc4ca35538ac34eae5ef1c36045913
+      internalID: 1517975220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEM CLUSTER 10 - LIGHT GREEN - Spritesheet_46
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 44
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a626e7151b0e856499b6d59afb7d6052
+      internalID: -1756246935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEM CLUSTER 10 - LIGHT GREEN - Spritesheet_47
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 44
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee4257c70d703b2468ddf4ee64f975a0
+      internalID: -262898258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEM CLUSTER 10 - LIGHT GREEN - Spritesheet_48
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 44
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab5e4f2cd55c75f42ac79c565e0552bd
+      internalID: -29248472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEM CLUSTER 10 - LIGHT GREEN - Spritesheet_49
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 44
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e1c8b86867061b41bd12f15399189d8
+      internalID: -1616134752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEM CLUSTER 10 - LIGHT GREEN - Spritesheet_50
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 44
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 441951f5cb015d143bfafc36e73d012a
+      internalID: -968704991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEM CLUSTER 10 - LIGHT GREEN - Spritesheet_51
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 44
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 973ee859d24e61144bc2792cc2ad23f5
+      internalID: -342339456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEM CLUSTER 10 - LIGHT GREEN - Spritesheet_52
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 44
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 520469ef224d1db49aa364201df5589c
+      internalID: -1972558553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEM CLUSTER 10 - LIGHT GREEN - Spritesheet_53
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 44
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75062ae01d2a94b438aead5758440964
+      internalID: 88600248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEM CLUSTER 10 - LIGHT GREEN - Spritesheet_54
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f4befb06ec8c7d4fbe957a644adc191
+      internalID: 1590885313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEM CLUSTER 10 - LIGHT GREEN - Spritesheet_55
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 0
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 109cec902bb5ef543bb92e4d9b82ec3c
+      internalID: 493688249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEM CLUSTER 10 - LIGHT GREEN - Spritesheet_56
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 0
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54cd7837f1996294eb9a66c34c10cb93
+      internalID: -1753956836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEM CLUSTER 10 - LIGHT GREEN - Spritesheet_57
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 0
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecc274918565fca40b1d29aae58af233
+      internalID: -779871760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEM CLUSTER 10 - LIGHT GREEN - Spritesheet_58
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 0
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 065cbf94886c7754cb862e67cb3a422a
+      internalID: 632932824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEM CLUSTER 10 - LIGHT GREEN - Spritesheet_59
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 0
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a84e550c8f2dc7419e30910e4122ea6
+      internalID: 280894858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEM CLUSTER 10 - LIGHT GREEN - Spritesheet_60
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 0
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 753dabd3b873b9f41b94734a44929283
+      internalID: -1501791783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEM CLUSTER 10 - LIGHT GREEN - Spritesheet_61
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 0
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 934dff8739dbea9468836e4ffa076e17
+      internalID: -803071433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEM CLUSTER 10 - LIGHT GREEN - Spritesheet_62
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 0
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b086091a668bf5d4f8b1738348981e74
+      internalID: 1559987734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEM CLUSTER 10 - LIGHT GREEN - Spritesheet_63
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 0
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f508e317c3e3cbd4cbf92537c4205436
+      internalID: 447601375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEM CLUSTER 10 - LIGHT GREEN - Spritesheet_64
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 0
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e677e90d11be3224d842dfe0923603c6
+      internalID: -241696265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEM CLUSTER 10 - LIGHT GREEN - Spritesheet_65
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 0
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bb4bc417865b4649a3a645c5aaabdeb
+      internalID: 1448026789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEM CLUSTER 10 - LIGHT GREEN - Spritesheet_66
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 0
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbefb869b0c0034498c2927c64f65008
+      internalID: 415991020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEM CLUSTER 10 - LIGHT GREEN - Spritesheet_67
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 0
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc3c6f8327e2f02409b2b9cc433862fb
+      internalID: -1754220479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEM CLUSTER 10 - LIGHT GREEN - Spritesheet_68
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 0
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6278d6648aeade94e9a2b3bde125a0d2
+      internalID: -106022962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEM CLUSTER 10 - LIGHT GREEN - Spritesheet_69
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 0
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8947ec17bd2f2aa43bf99c52a2ebdd28
+      internalID: -559994994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEM CLUSTER 10 - LIGHT GREEN - Spritesheet_70
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 0
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56f0aa12e96fa4a42bfaa0acc63da7f3
+      internalID: -2087922207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEM CLUSTER 10 - LIGHT GREEN - Spritesheet_71
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 0
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37f106cc19df39442b26f23b02d3aa56
+      internalID: 437896620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":18.0,"y":4.0},"gridSpriteSize":{"x":44.0,"y":44.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      GEM CLUSTER 10 - LIGHT GREEN - Spritesheet_0: -804841505
+      GEM CLUSTER 10 - LIGHT GREEN - Spritesheet_1: 55174290
+      GEM CLUSTER 10 - LIGHT GREEN - Spritesheet_10: -783703424
+      GEM CLUSTER 10 - LIGHT GREEN - Spritesheet_11: 1125347442
+      GEM CLUSTER 10 - LIGHT GREEN - Spritesheet_12: -1985707929
+      GEM CLUSTER 10 - LIGHT GREEN - Spritesheet_13: 1600459300
+      GEM CLUSTER 10 - LIGHT GREEN - Spritesheet_14: 414633187
+      GEM CLUSTER 10 - LIGHT GREEN - Spritesheet_15: 1399886989
+      GEM CLUSTER 10 - LIGHT GREEN - Spritesheet_16: 292394266
+      GEM CLUSTER 10 - LIGHT GREEN - Spritesheet_17: -1148517564
+      GEM CLUSTER 10 - LIGHT GREEN - Spritesheet_18: -2045039706
+      GEM CLUSTER 10 - LIGHT GREEN - Spritesheet_19: 811614246
+      GEM CLUSTER 10 - LIGHT GREEN - Spritesheet_2: -1963336177
+      GEM CLUSTER 10 - LIGHT GREEN - Spritesheet_20: 1613854626
+      GEM CLUSTER 10 - LIGHT GREEN - Spritesheet_21: 1877713404
+      GEM CLUSTER 10 - LIGHT GREEN - Spritesheet_22: 545604969
+      GEM CLUSTER 10 - LIGHT GREEN - Spritesheet_23: 1061994106
+      GEM CLUSTER 10 - LIGHT GREEN - Spritesheet_24: 1465092929
+      GEM CLUSTER 10 - LIGHT GREEN - Spritesheet_25: -623433218
+      GEM CLUSTER 10 - LIGHT GREEN - Spritesheet_26: -1641941940
+      GEM CLUSTER 10 - LIGHT GREEN - Spritesheet_27: -1559718268
+      GEM CLUSTER 10 - LIGHT GREEN - Spritesheet_28: -421211620
+      GEM CLUSTER 10 - LIGHT GREEN - Spritesheet_29: 2122632276
+      GEM CLUSTER 10 - LIGHT GREEN - Spritesheet_3: 378202039
+      GEM CLUSTER 10 - LIGHT GREEN - Spritesheet_30: -169141228
+      GEM CLUSTER 10 - LIGHT GREEN - Spritesheet_31: 1419293829
+      GEM CLUSTER 10 - LIGHT GREEN - Spritesheet_32: 1031687403
+      GEM CLUSTER 10 - LIGHT GREEN - Spritesheet_33: 1194178921
+      GEM CLUSTER 10 - LIGHT GREEN - Spritesheet_34: 1451831736
+      GEM CLUSTER 10 - LIGHT GREEN - Spritesheet_35: -1793991445
+      GEM CLUSTER 10 - LIGHT GREEN - Spritesheet_36: -664514628
+      GEM CLUSTER 10 - LIGHT GREEN - Spritesheet_37: -33977590
+      GEM CLUSTER 10 - LIGHT GREEN - Spritesheet_38: -1716657829
+      GEM CLUSTER 10 - LIGHT GREEN - Spritesheet_39: 654986353
+      GEM CLUSTER 10 - LIGHT GREEN - Spritesheet_4: -372952633
+      GEM CLUSTER 10 - LIGHT GREEN - Spritesheet_40: 1565057350
+      GEM CLUSTER 10 - LIGHT GREEN - Spritesheet_41: -927497496
+      GEM CLUSTER 10 - LIGHT GREEN - Spritesheet_42: 1967472632
+      GEM CLUSTER 10 - LIGHT GREEN - Spritesheet_43: -566476159
+      GEM CLUSTER 10 - LIGHT GREEN - Spritesheet_44: 974156862
+      GEM CLUSTER 10 - LIGHT GREEN - Spritesheet_45: 1517975220
+      GEM CLUSTER 10 - LIGHT GREEN - Spritesheet_46: -1756246935
+      GEM CLUSTER 10 - LIGHT GREEN - Spritesheet_47: -262898258
+      GEM CLUSTER 10 - LIGHT GREEN - Spritesheet_48: -29248472
+      GEM CLUSTER 10 - LIGHT GREEN - Spritesheet_49: -1616134752
+      GEM CLUSTER 10 - LIGHT GREEN - Spritesheet_5: -1882000305
+      GEM CLUSTER 10 - LIGHT GREEN - Spritesheet_50: -968704991
+      GEM CLUSTER 10 - LIGHT GREEN - Spritesheet_51: -342339456
+      GEM CLUSTER 10 - LIGHT GREEN - Spritesheet_52: -1972558553
+      GEM CLUSTER 10 - LIGHT GREEN - Spritesheet_53: 88600248
+      GEM CLUSTER 10 - LIGHT GREEN - Spritesheet_54: 1590885313
+      GEM CLUSTER 10 - LIGHT GREEN - Spritesheet_55: 493688249
+      GEM CLUSTER 10 - LIGHT GREEN - Spritesheet_56: -1753956836
+      GEM CLUSTER 10 - LIGHT GREEN - Spritesheet_57: -779871760
+      GEM CLUSTER 10 - LIGHT GREEN - Spritesheet_58: 632932824
+      GEM CLUSTER 10 - LIGHT GREEN - Spritesheet_59: 280894858
+      GEM CLUSTER 10 - LIGHT GREEN - Spritesheet_6: -1296984386
+      GEM CLUSTER 10 - LIGHT GREEN - Spritesheet_60: -1501791783
+      GEM CLUSTER 10 - LIGHT GREEN - Spritesheet_61: -803071433
+      GEM CLUSTER 10 - LIGHT GREEN - Spritesheet_62: 1559987734
+      GEM CLUSTER 10 - LIGHT GREEN - Spritesheet_63: 447601375
+      GEM CLUSTER 10 - LIGHT GREEN - Spritesheet_64: -241696265
+      GEM CLUSTER 10 - LIGHT GREEN - Spritesheet_65: 1448026789
+      GEM CLUSTER 10 - LIGHT GREEN - Spritesheet_66: 415991020
+      GEM CLUSTER 10 - LIGHT GREEN - Spritesheet_67: -1754220479
+      GEM CLUSTER 10 - LIGHT GREEN - Spritesheet_68: -106022962
+      GEM CLUSTER 10 - LIGHT GREEN - Spritesheet_69: -559994994
+      GEM CLUSTER 10 - LIGHT GREEN - Spritesheet_7: 454241977
+      GEM CLUSTER 10 - LIGHT GREEN - Spritesheet_70: -2087922207
+      GEM CLUSTER 10 - LIGHT GREEN - Spritesheet_71: 437896620
+      GEM CLUSTER 10 - LIGHT GREEN - Spritesheet_8: -1083038269
+      GEM CLUSTER 10 - LIGHT GREEN - Spritesheet_9: 1397066055
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

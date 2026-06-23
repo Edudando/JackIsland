@@ -1,0 +1,1808 @@
+fileFormatVersion: 2
+guid: 8b5ec59fb54049f4d9acf60075f554ad
+AssetOrigin:
+  serializedVersion: 1
+  productId: 277559
+  packageName: Pixel Art Gem Pack - Animated
+  packageVersion: 1.1
+  assetPath: Assets/karsiori/Sprites/GEM 10/GEM CLUSTER 10 - LILAC - Spritesheet.png
+  uploadId: 670285
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: GEM CLUSTER 10 - LILAC - Spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 132
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eca9d57fed7b90a40814f68907cdce69
+      internalID: -1328218344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEM CLUSTER 10 - LILAC - Spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 132
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b45e85928d1d23428681b04e38915f8
+      internalID: -1008286629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEM CLUSTER 10 - LILAC - Spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 132
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2068784d305019f429f6d0218c5c8ef1
+      internalID: -92798429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEM CLUSTER 10 - LILAC - Spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 132
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de5ce0448896d6d40ade863e13c6d84b
+      internalID: 1444550904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEM CLUSTER 10 - LILAC - Spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 132
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d5730d8840ff8c488d657de7b73cf3d
+      internalID: -1641348951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEM CLUSTER 10 - LILAC - Spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 132
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb5e2c3323f4bd3459c78d34989a37f9
+      internalID: 1592432049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEM CLUSTER 10 - LILAC - Spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 132
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bcc24307d0985545ad5306c689b8c45
+      internalID: -1031112536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEM CLUSTER 10 - LILAC - Spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 132
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7af0311f65f2364498dba2ae85f1ddbb
+      internalID: 1695186840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEM CLUSTER 10 - LILAC - Spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 132
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c0c25eb85ddc06419775e1bb3f61af2
+      internalID: 559690047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEM CLUSTER 10 - LILAC - Spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 132
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 160de19b93be54c4f88d96478f0429e4
+      internalID: 1891602743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEM CLUSTER 10 - LILAC - Spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 132
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae1a230b04bc1224b89e91710169e683
+      internalID: -88531347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEM CLUSTER 10 - LILAC - Spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 132
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfdfe0e55020a21428c2fa06a5af699f
+      internalID: -2115601647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEM CLUSTER 10 - LILAC - Spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 132
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eea09a703fccd3d42b24f8f731ade1a3
+      internalID: 530185700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEM CLUSTER 10 - LILAC - Spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 132
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 580368b33e274ac4e968b75104f0d7aa
+      internalID: 1436521492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEM CLUSTER 10 - LILAC - Spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 132
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5984501d5c6b15648b5a31d360ce02d2
+      internalID: 1125106762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEM CLUSTER 10 - LILAC - Spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 132
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1764c9deeefce7847aee3b566dc505f8
+      internalID: -296382842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEM CLUSTER 10 - LILAC - Spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 132
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e0284a8db74c29439dbabf5d292a1cc
+      internalID: 1836028948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEM CLUSTER 10 - LILAC - Spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 132
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9aa990fdee7afb438b255c138ecde12
+      internalID: -678257162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEM CLUSTER 10 - LILAC - Spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 88
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a2b7dac9595ac749bbfc791968bba06
+      internalID: -2124693937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEM CLUSTER 10 - LILAC - Spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 88
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e7ddcff013aa5645bddd086c30d24bf
+      internalID: 1162712430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEM CLUSTER 10 - LILAC - Spritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 88
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4868cbb752e236a4eb84fdea0eebbedc
+      internalID: 1771162471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEM CLUSTER 10 - LILAC - Spritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 88
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 737b7c3fb71148f4694959a58e9d7ffb
+      internalID: 1160856134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEM CLUSTER 10 - LILAC - Spritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 88
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c7db078b9b70a14a93cf384d05ad531
+      internalID: 1619526530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEM CLUSTER 10 - LILAC - Spritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 88
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5762177cce4463843a593d6fd43cc9cb
+      internalID: 1808110175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEM CLUSTER 10 - LILAC - Spritesheet_24
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 88
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 831cc64c72df97148a6c37ba35c2fdc7
+      internalID: 106058444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEM CLUSTER 10 - LILAC - Spritesheet_25
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 88
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: feccafa95dd47334da363eff89f2a2c4
+      internalID: 166529327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEM CLUSTER 10 - LILAC - Spritesheet_26
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 88
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 291dc7bbb25762647b12374d9cdda816
+      internalID: 1487078907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEM CLUSTER 10 - LILAC - Spritesheet_27
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 88
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1edebf1b317f7fb4ab6bbb935d2ecc01
+      internalID: 759491961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEM CLUSTER 10 - LILAC - Spritesheet_28
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 88
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa20db45385f32e4194d61b4d7722ee6
+      internalID: -1951576591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEM CLUSTER 10 - LILAC - Spritesheet_29
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 88
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff25447c541aea94b82317c14b4a3879
+      internalID: 1709135749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEM CLUSTER 10 - LILAC - Spritesheet_30
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 88
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 946bd7f19ed7b8843a1a93df125c3f4e
+      internalID: -1312921886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEM CLUSTER 10 - LILAC - Spritesheet_31
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 88
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22760e5fd1e9ff140b1b05ee27131c7c
+      internalID: 821926717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEM CLUSTER 10 - LILAC - Spritesheet_32
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 88
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e95d0af932e289d4ebdaee1073f88b3e
+      internalID: 1616583396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEM CLUSTER 10 - LILAC - Spritesheet_33
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 88
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecd3a7805fb27c84bb1121523cbae5e2
+      internalID: -87481553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEM CLUSTER 10 - LILAC - Spritesheet_34
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 88
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea0d66608e19b8d499502d4b5793ffef
+      internalID: 811496518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEM CLUSTER 10 - LILAC - Spritesheet_35
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 88
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6948747b19a901041ad443d75301ad66
+      internalID: 965375567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEM CLUSTER 10 - LILAC - Spritesheet_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 44
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d74b7683e8c85945b2be183eab3dce8
+      internalID: 556543534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEM CLUSTER 10 - LILAC - Spritesheet_37
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 44
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0c997522d07d7e428c39d0a744a4d13
+      internalID: 1043924500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEM CLUSTER 10 - LILAC - Spritesheet_38
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 44
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c75339d5662c2d4793427c817342670
+      internalID: -684809367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEM CLUSTER 10 - LILAC - Spritesheet_39
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 44
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bef4dc28e43d2bd41a295025444acabc
+      internalID: 1872725592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEM CLUSTER 10 - LILAC - Spritesheet_40
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 44
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 371f185ec24882d4d98088d3377bc09b
+      internalID: 1311843017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEM CLUSTER 10 - LILAC - Spritesheet_41
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 44
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f9efdc2ffc67364fbed3c580f75d6e4
+      internalID: -1565869956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEM CLUSTER 10 - LILAC - Spritesheet_42
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 44
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15eca8a0eb7495d41b7097c8cfbeeb90
+      internalID: -873374334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEM CLUSTER 10 - LILAC - Spritesheet_43
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 44
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58cbf3e483d01ee4096cb1dc1fde72ad
+      internalID: 528277440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEM CLUSTER 10 - LILAC - Spritesheet_44
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 44
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f745b334701ca2f4ea0f6e373f521ae2
+      internalID: -1560860239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEM CLUSTER 10 - LILAC - Spritesheet_45
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 44
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acc99a879086bf94fac77b2d9f91f01c
+      internalID: -2060512871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEM CLUSTER 10 - LILAC - Spritesheet_46
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 44
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6803644cfcafe8d4d8a8c992ca624387
+      internalID: -1497870676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEM CLUSTER 10 - LILAC - Spritesheet_47
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 44
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f15054090d8eea54b99811d8655bd0db
+      internalID: -1837167206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEM CLUSTER 10 - LILAC - Spritesheet_48
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 44
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e48e061f933f99438b22ff86c164197
+      internalID: -155720818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEM CLUSTER 10 - LILAC - Spritesheet_49
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 44
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cb4f7cee372db14e914c4267f97b993
+      internalID: -1390046603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEM CLUSTER 10 - LILAC - Spritesheet_50
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 44
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 634180df051fa7642833a9f3a65aaf11
+      internalID: -566147858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEM CLUSTER 10 - LILAC - Spritesheet_51
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 44
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a252d7928c8dee840b2438d0b4704d26
+      internalID: 1486471777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEM CLUSTER 10 - LILAC - Spritesheet_52
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 44
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 440a5475541a7f44eaaf2dbd30799e21
+      internalID: 488440500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEM CLUSTER 10 - LILAC - Spritesheet_53
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 44
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8b7052a47792b14399e86309808ed3d
+      internalID: -931870411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEM CLUSTER 10 - LILAC - Spritesheet_54
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93e97fe14fcd0934092eaa269a5fa447
+      internalID: 1284954816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEM CLUSTER 10 - LILAC - Spritesheet_55
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 0
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bcbbe670b45f5545b11856a1df4f964
+      internalID: 935226237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEM CLUSTER 10 - LILAC - Spritesheet_56
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 0
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 773b7ce5e83ba854b8c38f67c14a07cb
+      internalID: 1186771422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEM CLUSTER 10 - LILAC - Spritesheet_57
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 0
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20336a4e9857b1c408a1fb45783d77fb
+      internalID: -1963460852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEM CLUSTER 10 - LILAC - Spritesheet_58
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 0
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8d2cda158a8ce64e8a430a0dc7ccacb
+      internalID: -1128295012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEM CLUSTER 10 - LILAC - Spritesheet_59
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 0
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7e655c65bd1a784cae5e228051880a1
+      internalID: -1812919104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEM CLUSTER 10 - LILAC - Spritesheet_60
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 0
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1f44237425104b43b9870c856f3948e
+      internalID: -1049601094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEM CLUSTER 10 - LILAC - Spritesheet_61
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 0
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 034199ceb484e834fbd19d1b120fa851
+      internalID: 1915272673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEM CLUSTER 10 - LILAC - Spritesheet_62
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 0
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a4f43db266c49248825535f929da281
+      internalID: -980989504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEM CLUSTER 10 - LILAC - Spritesheet_63
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 0
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33bb0883da98c9b41b2f3df840232fcc
+      internalID: -1180151453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEM CLUSTER 10 - LILAC - Spritesheet_64
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 0
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c9360a317d4205438b511c6cc68a3ef
+      internalID: -765370366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEM CLUSTER 10 - LILAC - Spritesheet_65
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 0
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33b6d70b46199554b9ad99ac4fa955e8
+      internalID: 849913256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEM CLUSTER 10 - LILAC - Spritesheet_66
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 0
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 101561cc57bbb0749b5511551405e7b9
+      internalID: -720894100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEM CLUSTER 10 - LILAC - Spritesheet_67
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 0
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64f52d88b6e68a34f92f28ded119b52b
+      internalID: 120480187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEM CLUSTER 10 - LILAC - Spritesheet_68
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 0
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c29755465a009f4bac95e56b11f3527
+      internalID: -1637772302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEM CLUSTER 10 - LILAC - Spritesheet_69
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 0
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c039ee15c2c2f64c83f31d1a0ac45a8
+      internalID: -241504201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEM CLUSTER 10 - LILAC - Spritesheet_70
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 0
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19be2c213a5f16b40935e8e19b73b85f
+      internalID: -1540907833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEM CLUSTER 10 - LILAC - Spritesheet_71
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 0
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae1814edaee0290498a9b52f765610e0
+      internalID: 2087284362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":18.0,"y":4.0},"gridSpriteSize":{"x":44.0,"y":44.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      GEM CLUSTER 10 - LILAC - Spritesheet_0: -1328218344
+      GEM CLUSTER 10 - LILAC - Spritesheet_1: -1008286629
+      GEM CLUSTER 10 - LILAC - Spritesheet_10: -88531347
+      GEM CLUSTER 10 - LILAC - Spritesheet_11: -2115601647
+      GEM CLUSTER 10 - LILAC - Spritesheet_12: 530185700
+      GEM CLUSTER 10 - LILAC - Spritesheet_13: 1436521492
+      GEM CLUSTER 10 - LILAC - Spritesheet_14: 1125106762
+      GEM CLUSTER 10 - LILAC - Spritesheet_15: -296382842
+      GEM CLUSTER 10 - LILAC - Spritesheet_16: 1836028948
+      GEM CLUSTER 10 - LILAC - Spritesheet_17: -678257162
+      GEM CLUSTER 10 - LILAC - Spritesheet_18: -2124693937
+      GEM CLUSTER 10 - LILAC - Spritesheet_19: 1162712430
+      GEM CLUSTER 10 - LILAC - Spritesheet_2: -92798429
+      GEM CLUSTER 10 - LILAC - Spritesheet_20: 1771162471
+      GEM CLUSTER 10 - LILAC - Spritesheet_21: 1160856134
+      GEM CLUSTER 10 - LILAC - Spritesheet_22: 1619526530
+      GEM CLUSTER 10 - LILAC - Spritesheet_23: 1808110175
+      GEM CLUSTER 10 - LILAC - Spritesheet_24: 106058444
+      GEM CLUSTER 10 - LILAC - Spritesheet_25: 166529327
+      GEM CLUSTER 10 - LILAC - Spritesheet_26: 1487078907
+      GEM CLUSTER 10 - LILAC - Spritesheet_27: 759491961
+      GEM CLUSTER 10 - LILAC - Spritesheet_28: -1951576591
+      GEM CLUSTER 10 - LILAC - Spritesheet_29: 1709135749
+      GEM CLUSTER 10 - LILAC - Spritesheet_3: 1444550904
+      GEM CLUSTER 10 - LILAC - Spritesheet_30: -1312921886
+      GEM CLUSTER 10 - LILAC - Spritesheet_31: 821926717
+      GEM CLUSTER 10 - LILAC - Spritesheet_32: 1616583396
+      GEM CLUSTER 10 - LILAC - Spritesheet_33: -87481553
+      GEM CLUSTER 10 - LILAC - Spritesheet_34: 811496518
+      GEM CLUSTER 10 - LILAC - Spritesheet_35: 965375567
+      GEM CLUSTER 10 - LILAC - Spritesheet_36: 556543534
+      GEM CLUSTER 10 - LILAC - Spritesheet_37: 1043924500
+      GEM CLUSTER 10 - LILAC - Spritesheet_38: -684809367
+      GEM CLUSTER 10 - LILAC - Spritesheet_39: 1872725592
+      GEM CLUSTER 10 - LILAC - Spritesheet_4: -1641348951
+      GEM CLUSTER 10 - LILAC - Spritesheet_40: 1311843017
+      GEM CLUSTER 10 - LILAC - Spritesheet_41: -1565869956
+      GEM CLUSTER 10 - LILAC - Spritesheet_42: -873374334
+      GEM CLUSTER 10 - LILAC - Spritesheet_43: 528277440
+      GEM CLUSTER 10 - LILAC - Spritesheet_44: -1560860239
+      GEM CLUSTER 10 - LILAC - Spritesheet_45: -2060512871
+      GEM CLUSTER 10 - LILAC - Spritesheet_46: -1497870676
+      GEM CLUSTER 10 - LILAC - Spritesheet_47: -1837167206
+      GEM CLUSTER 10 - LILAC - Spritesheet_48: -155720818
+      GEM CLUSTER 10 - LILAC - Spritesheet_49: -1390046603
+      GEM CLUSTER 10 - LILAC - Spritesheet_5: 1592432049
+      GEM CLUSTER 10 - LILAC - Spritesheet_50: -566147858
+      GEM CLUSTER 10 - LILAC - Spritesheet_51: 1486471777
+      GEM CLUSTER 10 - LILAC - Spritesheet_52: 488440500
+      GEM CLUSTER 10 - LILAC - Spritesheet_53: -931870411
+      GEM CLUSTER 10 - LILAC - Spritesheet_54: 1284954816
+      GEM CLUSTER 10 - LILAC - Spritesheet_55: 935226237
+      GEM CLUSTER 10 - LILAC - Spritesheet_56: 1186771422
+      GEM CLUSTER 10 - LILAC - Spritesheet_57: -1963460852
+      GEM CLUSTER 10 - LILAC - Spritesheet_58: -1128295012
+      GEM CLUSTER 10 - LILAC - Spritesheet_59: -1812919104
+      GEM CLUSTER 10 - LILAC - Spritesheet_6: -1031112536
+      GEM CLUSTER 10 - LILAC - Spritesheet_60: -1049601094
+      GEM CLUSTER 10 - LILAC - Spritesheet_61: 1915272673
+      GEM CLUSTER 10 - LILAC - Spritesheet_62: -980989504
+      GEM CLUSTER 10 - LILAC - Spritesheet_63: -1180151453
+      GEM CLUSTER 10 - LILAC - Spritesheet_64: -765370366
+      GEM CLUSTER 10 - LILAC - Spritesheet_65: 849913256
+      GEM CLUSTER 10 - LILAC - Spritesheet_66: -720894100
+      GEM CLUSTER 10 - LILAC - Spritesheet_67: 120480187
+      GEM CLUSTER 10 - LILAC - Spritesheet_68: -1637772302
+      GEM CLUSTER 10 - LILAC - Spritesheet_69: -241504201
+      GEM CLUSTER 10 - LILAC - Spritesheet_7: 1695186840
+      GEM CLUSTER 10 - LILAC - Spritesheet_70: -1540907833
+      GEM CLUSTER 10 - LILAC - Spritesheet_71: 2087284362
+      GEM CLUSTER 10 - LILAC - Spritesheet_8: 559690047
+      GEM CLUSTER 10 - LILAC - Spritesheet_9: 1891602743
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
