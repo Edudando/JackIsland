@@ -1,3 +1,10 @@
+/**
+ * @author Eduardo Ortega
+ * @email eduardoortega@live.com.ar
+ * @create date 22-06-2026 00:11:55
+ * @modify date 22-06-2026 00:11:55
+ * @desc [description]
+ */
 using UnityEngine;
 using UnityEngine.UI; // Importante: nos permite trabajar con imágenes de la interfaz
 
@@ -6,7 +13,7 @@ public class InventoryUI : MonoBehaviour
     public static InventoryUI Instance;
 
     [Header("Casilleros Visuales")]
-    public Image[] slots; // Aquí guardaremos los huecos que creaste
+    public Image[] slots; // Aquí guardaremos las imágenes de cada casillero del inventario
 
     public SlotInventario[] scriptsDeSlots; // Aquí guardaremos los scripts de cada casillero para asignarles el nombre del item
 
@@ -48,7 +55,7 @@ public class InventoryUI : MonoBehaviour
             // Buscamos qué casillero tiene el nombre que le pasamos
             if (scriptsDeSlots[i].nombreItem == nombreDelItem)
             {
-                // ¡Lo encontramos! Ejecutamos tu función para limpiarlo
+                // ¡Lo encontramos! Ejecutamos la función de vaciar el casillero
                 scriptsDeSlots[i].VaciarSlot(); 
                 return; // Cortamos el ciclo porque ya hicimos el trabajo
             }
@@ -65,6 +72,7 @@ public class InventoryUI : MonoBehaviour
                 }
             }
             // Si termina de revisar todos y ninguno estaba vacío, está lleno
+            // Debug.Log("El inventario está lleno. No hay espacio para más items.");
             return false; 
         }
 }

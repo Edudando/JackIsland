@@ -1,3 +1,10 @@
+/**
+ * @author Eduardo Ortega
+ * @email eduardoortega@live.com.ar
+ * @create date 22-06-2026 00:06:22
+ * @modify date 22-06-2026 00:06:22
+ * @desc [description]
+ */
 using System.Collections;
 using UnityEngine;
 using TMPro;
@@ -72,7 +79,7 @@ public class CompanionDialogue : MonoBehaviour
 
     IEnumerator CerrarDialogoAutomatico()
     {
-        // Espera los 5 segundos (o lo que configures en el Inspector)
+        // Espera los 5 segundos (o lo que se configure en el Inspector)
         yield return new WaitForSeconds(tiempoVisible);
         
         // Ejecuta la misma función de cierre que si hubieras llegado al final

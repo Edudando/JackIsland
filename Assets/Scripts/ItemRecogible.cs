@@ -1,4 +1,12 @@
+/**
+ * @author Eduardo Ortega
+ * @email eduardoortega@live.com.ar
+ * @create date 21-06-2026 21:06:57
+ * @modify date 21-06-2026 21:06:57
+ * @desc [description]
+ */
 using UnityEngine;
+using FMODUnity;
 
 public class ItemRecogible : MonoBehaviour
 {
@@ -7,6 +15,9 @@ public class ItemRecogible : MonoBehaviour
     public int cantidad = 1;
     public bool esHerramienta = false;
     public Sprite miSprite;
+
+    [Header("Eventos FMOD")]
+    [SerializeField] private EventReference sfxItemRecogido;
 
     private void Start()
     {
@@ -32,14 +43,12 @@ public class ItemRecogible : MonoBehaviour
                 
                 // Lo dibujamos en la pantalla
                 InventoryUI.Instance.DibujarItem(miSprite, nombreRecurso); 
+
+                // Sonido de pickup
+                RuntimeManager.PlayOneShot(sfxItemRecogido, transform.position);
                 
                 // Lo destruimos del mapa
                 Destroy(gameObject);
-            }
-            else
-            {
-                // No hay espacio: el objeto ignora al jugador y se queda en el piso
-                Debug.Log("El inventario está lleno. No hay lugar para: " + nombreRecurso);
             }
         }
     }
