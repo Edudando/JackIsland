@@ -1,13 +1,6 @@
-/**
- * @author Eduardo Ortega
- * @email eduardoortega@live.com.ar
- * @create date 22-06-2026 00:14:36
- * @modify date 22-06-2026 00:14:36
- * @desc [description]
- */
 using UnityEngine;
 using UnityEngine.InputSystem;
-using FMODUnity; // 1. Agrega la librería de FMOD aquí
+using FMODUnity;
 
 [RequireComponent(typeof(Rigidbody2D))]
 public class PlayerMovement : MonoBehaviour
@@ -16,20 +9,20 @@ public class PlayerMovement : MonoBehaviour
     private Vector2 moveInput;
     private Rigidbody2D rb;
     private Animator animator;
-    public CompanionDialogue dialogoDelLoro;
-
     private SpriteRenderer spriteRenderer;
-    
-    void Start()
-    {
-        dialogoDelLoro = GetComponent<CompanionDialogue>();         
-        spriteRenderer = GetComponent<SpriteRenderer>(); 
-    }
-    
+    public CompanionDialogue dialogoDelLoro;
+    public bool estaHablando = false;
+
     void Awake()
     {
         rb = GetComponent<Rigidbody2D>();
         animator = GetComponent<Animator>();
+    }
+
+    void Start()
+    {
+        dialogoDelLoro = GetComponent<CompanionDialogue>();
+        spriteRenderer = GetComponent<SpriteRenderer>();
     }
 
     void OnMove(InputValue value)
@@ -39,6 +32,11 @@ public class PlayerMovement : MonoBehaviour
 
     void FixedUpdate()
     {
+        if (estaHablando)
+        {
+            rb.linearVelocity = Vector2.zero;
+            return;
+        }
         rb.linearVelocity = moveInput * MoveSpeed;
     }
 
@@ -46,33 +44,32 @@ public class PlayerMovement : MonoBehaviour
     {
         if (animator != null)
         {
+            if (estaHablando)
+            {
+                animator.SetFloat("Velocity", 0);
+                return;
+            }
+
             animator.SetFloat("Velocity", moveInput.magnitude);
 
             if (moveInput.x > 0)
-            {
-                spriteRenderer.flipX = false; 
-            }
+                spriteRenderer.flipX = false;
             else if (moveInput.x < 0)
-            {
-                spriteRenderer.flipX = true; 
-            }
+                spriteRenderer.flipX = true;
 
             if (Keyboard.current != null && Keyboard.current.tKey.wasPressedThisFrame)
             {
-                string[] frasesDePrueba = { 
-                    "¡Squawk! ¡Cuidado por donde pisas, Jack!", 
-                    "Esa calavera de piedra no me da buena espina." 
+                string[] frasesDePrueba = {
+                    "¡Squawk! ¡Cuidado por donde pisas, Jack!",
+                    "Esa calavera de piedra no me da buena espina."
                 };
-                
                 dialogoDelLoro.ShowDialogue(frasesDePrueba);
             }
         }
     }
 
-    // 2. Agrega esta función al final de tu clase
     public void ReproducirPaso()
     {
-        // RuntimeManager.PlayOneShot dispara el sonido una sola vez en la posición del jugador
         RuntimeManager.PlayOneShot("event:/PasosJack", transform.position);
     }
 }

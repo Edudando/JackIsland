@@ -1,23 +1,26 @@
-/**
- * @author Eduardo Ortega
- * @email eduardoortega@live.com.ar
- * @create date 21-06-2026 21:50:12
- * @modify date 21-06-2026 21:50:12
- * @desc [description]
- */
 using UnityEngine;
 using UnityEngine.EventSystems;
+using UnityEngine.SceneManagement;
 using FMODUnity;
+using System.Collections;
 
 public class HogueraInteractuable : MonoBehaviour, IPointerClickHandler
 {
     [Header("Evolución Visual")]
-    public Sprite hogueraArmada;     // Acá va Hoguera_1 (Troncos acomodados)
-    public Sprite hogueraEncendida;  // Acá va Hoguera_2 (Fuego chico)
-    public Sprite hogueraAvivada;    // Acá va Hoguera_3 (Fuego completo)
+    public Sprite hogueraArmada;
+    public Sprite hogueraEncendida;
+    public Sprite hogueraAvivada;
 
-    [Header("Diálogo del Loro")]
-    public CompanionDialogue loroDialogo; 
+    [Header("Animación Fuego Final")]
+    public GameObject fuegoAnimado; // GameObject con Animator de los 4 frames
+    public float tiempoAntesDeEscena = 5f;
+
+    [Header("Referencias")]
+    public CompanionDialogue loroDialogo;
+    public PlayerMovement playerMovement;
+
+    [Header("Siguiente Escena")]
+    public string nombreSiguienteEscena = "ElRefugio"; // cambiá cuando la tengas
 
     [Header("Eventos FMOD")]
     [SerializeField] private EventReference sfxItemCorrecto;
@@ -25,34 +28,36 @@ public class HogueraInteractuable : MonoBehaviour, IPointerClickHandler
     [SerializeField] private EventReference sfxFinalEpisodio;
 
     private SpriteRenderer miSpriteRenderer;
+    private bool finalActivado = false;
 
     void Start()
     {
         miSpriteRenderer = GetComponent<SpriteRenderer>();
+        if (fuegoAnimado != null)
+            fuegoAnimado.SetActive(false);
     }
 
     public void OnPointerClick(PointerEventData eventData)
     {
+        if (finalActivado) return;
+
         string item = InventoryManager.Instance.itemSeleccionado;
 
-        // --- 1. VALIDACIÓN: SI NO HAY NADA SELECCIONADO EN LA BARRA ---
         if (string.IsNullOrEmpty(item))
         {
-            Debug.Log("¡Primero debes seleccionar un ítem del inventario!");
             if (loroDialogo != null)
             {
                 string[] frase = { "¡Oye Jack, primero selecciona un ítem de la barra!" };
                 loroDialogo.ShowDialogue(frase);
             }
-            return; // Cortamos la ejecución aquí para evitar que salten otros mensajes
+            return;
         }
 
-        // Identificamos dinámicamente el estado visual actual de la fogata
         bool estaEnTroncosInicial = (miSpriteRenderer.sprite != hogueraArmada && miSpriteRenderer.sprite != hogueraEncendida && miSpriteRenderer.sprite != hogueraAvivada);
         bool estaEnMaderaLista = (miSpriteRenderer.sprite == hogueraArmada);
         bool estaEnFuegoChico = (miSpriteRenderer.sprite == hogueraEncendida);
 
-        // --- 2. CASO: SE USA EL HACHA ---
+        // --- HACHA ---
         if (item == "Hacha" || item == "hacha")
         {
             if (estaEnTroncosInicial)
@@ -61,7 +66,7 @@ public class HogueraInteractuable : MonoBehaviour, IPointerClickHandler
                 InventoryUI.Instance.RemoverItemVisualmente(item);
                 InventoryManager.Instance.ConsumirItemSeleccionado();
                 RuntimeManager.PlayOneShot(sfxItemCorrecto, transform.position);
-                
+
                 if (loroDialogo != null)
                 {
                     string[] frase = { "Bien maldito pirata, ya podemos prender el fuego" };
@@ -69,7 +74,7 @@ public class HogueraInteractuable : MonoBehaviour, IPointerClickHandler
                 }
             }
         }
-        // --- 3. CASO: SE USA EL ENCENDEDOR ---
+        // --- ENCENDEDOR ---
         else if (item == "Encendedor" || item == "encendedor")
         {
             if (estaEnMaderaLista)
@@ -78,14 +83,14 @@ public class HogueraInteractuable : MonoBehaviour, IPointerClickHandler
                 InventoryUI.Instance.RemoverItemVisualmente(item);
                 InventoryManager.Instance.ConsumirItemSeleccionado();
                 RuntimeManager.PlayOneShot(sfxItemCorrecto, transform.position);
-                
+
                 if (loroDialogo != null)
                 {
                     string[] frase = { "¡Fuego a la vista! Aunque todavia no es suficiente para pasar la noche" };
                     loroDialogo.ShowDialogue(frase);
                 }
             }
-            else if (estaEnTroncosInicial) // Advertencia: quiere prender fuego antes de preparar los leños
+            else if (estaEnTroncosInicial)
             {
                 RuntimeManager.PlayOneShot(sfxItemFail, transform.position);
                 if (loroDialogo != null)
@@ -95,27 +100,37 @@ public class HogueraInteractuable : MonoBehaviour, IPointerClickHandler
                 }
             }
         }
-
-        // --- 4. CASO: SE USA EL ABANICO ---
+        // --- ABANICO ---
         else if (item == "Abanico" || item == "abanico")
         {
             if (estaEnFuegoChico)
             {
+                finalActivado = true;
+
                 miSpriteRenderer.sprite = hogueraAvivada;
                 InventoryUI.Instance.RemoverItemVisualmente(item);
                 InventoryManager.Instance.ConsumirItemSeleccionado();
 
-                // Último paso: además del sonido de acierto, suena el cierre del episodio
+                // Activar animación de fuego
+                if (fuegoAnimado != null)
+                    fuegoAnimado.SetActive(true);
+
+                // Freezear a Jack
+                if (playerMovement != null)
+                    playerMovement.estaHablando = true;
+
                 RuntimeManager.PlayOneShot(sfxItemCorrecto, transform.position);
                 RuntimeManager.PlayOneShot(sfxFinalEpisodio, transform.position);
-                
+
                 if (loroDialogo != null)
                 {
                     string[] frase = { "¡Eso es! Dale aire para que prenda con todo. ¡Misión cumplida, pirata!" };
                     loroDialogo.ShowDialogue(frase);
                 }
+
+                StartCoroutine(CargarSiguienteEscena());
             }
-            else if (estaEnTroncosInicial || estaEnMaderaLista) // Advertencia: aire sin fuego previo
+            else if (estaEnTroncosInicial || estaEnMaderaLista)
             {
                 RuntimeManager.PlayOneShot(sfxItemFail, transform.position);
                 if (loroDialogo != null)
@@ -125,10 +140,9 @@ public class HogueraInteractuable : MonoBehaviour, IPointerClickHandler
                 }
             }
         }
-        // --- 5. CASO: CUALQUIER OTRO ÍTEM TOTALMENTE EQUIVOCADO ---
+        // --- ÍTEM INCORRECTO ---
         else
         {
-            Debug.Log("Este ítem no interactúa con la hoguera: " + item);
             RuntimeManager.PlayOneShot(sfxItemFail, transform.position);
             if (loroDialogo != null)
             {
@@ -136,5 +150,11 @@ public class HogueraInteractuable : MonoBehaviour, IPointerClickHandler
                 loroDialogo.ShowDialogue(frase);
             }
         }
+    }
+
+    IEnumerator CargarSiguienteEscena()
+    {
+        yield return new WaitForSeconds(tiempoAntesDeEscena);
+        SceneManager.LoadScene(nombreSiguienteEscena);
     }
 }

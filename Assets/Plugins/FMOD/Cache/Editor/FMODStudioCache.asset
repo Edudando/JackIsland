@@ -19,7 +19,7 @@ MonoBehaviour:
     Data3: 1903182005
     Data4: 1207608339
   Banks:
-  - {fileID: -4713520635951790290}
+  - {fileID: -5067782480408442073}
   IsStream: 0
   Is3D: 0
   IsOneShot: 1
@@ -46,7 +46,7 @@ MonoBehaviour:
     Data3: -88407631
     Data4: 37739001
   Banks:
-  - {fileID: -4713520635951790290}
+  - {fileID: -5067782480408442073}
   IsStream: 1
   Is3D: 0
   IsOneShot: 1
@@ -54,6 +54,26 @@ MonoBehaviour:
   MinDistance: 1
   MaxDistance: 20
   Length: 290
+--- !u!114 &-5067782480408442073
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.bank
+  m_EditorClassIdentifier: FMODUnityEditor::FMODUnity.EditorBankRef
+  Path: D:/UNICABA/Lic en Videojuegos/Audio y Sonido/Entrega Final/JackAudio/Build/Desktop/Master.bank
+  Name: Master
+  StudioPath: bank:/Master
+  lastModified: 639180189911884307
+  FileSizes:
+  - Name: Desktop
+    Value: 2529216
+  Exists: 1
 --- !u!114 &-4863222773301877578
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -73,7 +93,7 @@ MonoBehaviour:
     Data3: 938912436
     Data4: -404112494
   Banks:
-  - {fileID: -4713520635951790290}
+  - {fileID: -5067782480408442073}
   IsStream: 0
   Is3D: 0
   IsOneShot: 1
@@ -81,26 +101,6 @@ MonoBehaviour:
   MinDistance: 1
   MaxDistance: 20
   Length: 1900
---- !u!114 &-4713520635951790290
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
-  m_Name: bank:/Master.bank
-  m_EditorClassIdentifier: FMODUnityEditor::FMODUnity.EditorBankRef
-  Path: D:/UNICABA/Lic en Videojuegos/Audio y Sonido/JackIsland/JackAudio/JackAudio/Build/Desktop/Master.bank
-  Name: Master
-  StudioPath: bank:/Master
-  lastModified: 639176792162791977
-  FileSizes:
-  - Name: Desktop
-    Value: 906048
-  Exists: 1
 --- !u!114 &-4343604866620331019
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -120,7 +120,7 @@ MonoBehaviour:
     Data3: -639977312
     Data4: 250366495
   Banks:
-  - {fileID: -4713520635951790290}
+  - {fileID: -5067782480408442073}
   IsStream: 0
   Is3D: 0
   IsOneShot: 1
@@ -128,6 +128,33 @@ MonoBehaviour:
   MinDistance: 1
   MaxDistance: 20
   Length: 1248
+--- !u!114 &-2974688040908774362
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Portada
+  m_EditorClassIdentifier: FMODUnityEditor::FMODUnity.EditorEventRef
+  Path: event:/Portada
+  Guid:
+    Data1: 234052968
+    Data2: 1226499924
+    Data3: -943275867
+    Data4: -1432727479
+  Banks:
+  - {fileID: -5067782480408442073}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 120032
 --- !u!114 &-1050245449369473852
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -147,7 +174,7 @@ MonoBehaviour:
     Data3: 1453086340
     Data4: -313241585
   Banks:
-  - {fileID: -4713520635951790290}
+  - {fileID: -5067782480408442073}
   IsStream: 1
   Is3D: 0
   IsOneShot: 0
@@ -155,6 +182,26 @@ MonoBehaviour:
   MinDistance: 1
   MaxDistance: 20
   Length: 54888
+--- !u!114 &-480007320836256296
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.strings.bank
+  m_EditorClassIdentifier: FMODUnityEditor::FMODUnity.EditorBankRef
+  Path: D:/UNICABA/Lic en Videojuegos/Audio y Sonido/Entrega Final/JackAudio/Build/Desktop/Master.strings.bank
+  Name: Master.strings
+  StudioPath: bank:/Master.strings
+  lastModified: 639180189911884307
+  FileSizes:
+  - Name: Desktop
+    Value: 1150
+  Exists: 1
 --- !u!114 &11400000
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -168,8 +215,8 @@ MonoBehaviour:
   m_Name: FMODStudioCache
   m_EditorClassIdentifier: FMODUnityEditor::FMODUnity.EventCache
   EditorBanks:
-  - {fileID: 8718368948748353322}
-  - {fileID: -4713520635951790290}
+  - {fileID: -480007320836256296}
+  - {fileID: -5067782480408442073}
   EditorEvents:
   - {fileID: -6149636841914698889}
   - {fileID: -1050245449369473852}
@@ -177,13 +224,14 @@ MonoBehaviour:
   - {fileID: -4343604866620331019}
   - {fileID: -4863222773301877578}
   - {fileID: 4158921116937771552}
+  - {fileID: -2974688040908774362}
   EditorParameters: []
   MasterBanks:
-  - {fileID: -4713520635951790290}
+  - {fileID: -5067782480408442073}
   StringsBanks:
-  - {fileID: 8718368948748353322}
+  - {fileID: -480007320836256296}
   cacheVersion: 131860
-  cacheTime: 639176792162791977
+  cacheTime: 639180189911884307
   SerializableEventsDict:
   - key: event:/PasosJack
     index: 0
@@ -197,6 +245,8 @@ MonoBehaviour:
     index: 4
   - key: event:/item _recogido
     index: 5
+  - key: event:/Portada
+    index: 6
 --- !u!114 &4158921116937771552
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -216,7 +266,7 @@ MonoBehaviour:
     Data3: 246306479
     Data4: -1851320757
   Banks:
-  - {fileID: -4713520635951790290}
+  - {fileID: -5067782480408442073}
   IsStream: 0
   Is3D: 0
   IsOneShot: 1
@@ -224,23 +274,3 @@ MonoBehaviour:
   MinDistance: 1
   MaxDistance: 20
   Length: 2040
---- !u!114 &8718368948748353322
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
-  m_Name: bank:/Master.strings.bank
-  m_EditorClassIdentifier: FMODUnityEditor::FMODUnity.EditorBankRef
-  Path: D:/UNICABA/Lic en Videojuegos/Audio y Sonido/JackIsland/JackAudio/JackAudio/Build/Desktop/Master.strings.bank
-  Name: Master.strings
-  StudioPath: bank:/Master.strings
-  lastModified: 639176792162791977
-  FileSizes:
-  - Name: Desktop
-    Value: 1026
-  Exists: 1

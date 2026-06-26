@@ -390,8 +390,8 @@ MonoBehaviour:
   switchSettingsMigration: 1
   HasSourceProject: 1
   HasPlatforms: 1
-  sourceProjectPath: D:/UNICABA/Lic en Videojuegos/Audio y Sonido/JackIsland/JackAudio/JackAudio/JackAudio.fspro
-  sourceBankPath: D:/UNICABA/Lic en Videojuegos/Audio y Sonido/JackIsland/JackAudio/JackAudio/Build
+  sourceProjectPath: D:/UNICABA/Lic en Videojuegos/Audio y Sonido/Entrega Final/JackAudio/JackAudio.fspro
+  sourceBankPath: D:/UNICABA/Lic en Videojuegos/Audio y Sonido/Entrega Final/JackAudio/Build
   sourceBankPathUnformatted: 
   BankRefreshCooldown: 5
   ShowBankRefreshWindow: 1
