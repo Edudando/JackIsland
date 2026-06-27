@@ -1,0 +1,408 @@
+fileFormatVersion: 2
+guid: dc8d4dfd598b63f44932aa9cc050618c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8573688460540751499
+    second: assetts_Barco_0
+  - first:
+      213: -300470358428248897
+    second: assetts_Barco_1
+  - first:
+      213: -4335498421729228215
+    second: assetts_Barco_2
+  - first:
+      213: -921065221988605964
+    second: assetts_Barco_3
+  - first:
+      213: -7914783713935768376
+    second: assetts_Barco_4
+  - first:
+      213: 711037363398670592
+    second: assetts_Barco_5
+  - first:
+      213: -8333158547191132584
+    second: assetts_Barco_6
+  - first:
+      213: -1471371706335877419
+    second: assetts_Barco_7
+  - first:
+      213: 8432841515634495544
+    second: assetts_Barco_8
+  - first:
+      213: 1677125889780098873
+    second: assetts_Barco_9
+  - first:
+      213: 1952739865690141480
+    second: assetts_Barco_10
+  - first:
+      213: 1824079979400580943
+    second: assetts_Barco_11
+  - first:
+      213: -1850591603936416938
+    second: assetts_Barco_12
+  - first:
+      213: 4312036786586416391
+    second: assetts_Barco_13
+  - first:
+      213: -3189147103668605129
+    second: assetts_Barco_14
+  - first:
+      213: 7174122546716037386
+    second: assetts_Barco_15
+  - first:
+      213: -7401646353963750192
+    second: assetts_Barco_16
+  - first:
+      213: -7063187919168381029
+    second: assetts_Barco_17
+  - first:
+      213: 8803008696516994611
+    second: assetts_Barco_18
+  - first:
+      213: -2212466593877290707
+    second: assetts_Barco_19
+  - first:
+      213: 6591954494139730910
+    second: assetts_Barco_20
+  - first:
+      213: 2417848373747819390
+    second: assetts_Barco_21
+  - first:
+      213: 4904422553411757751
+    second: assetts_Barco_22
+  - first:
+      213: 6840453562453429249
+    second: assetts_Barco_23
+  - first:
+      213: -3100033048277316362
+    second: assetts_Barco_24
+  - first:
+      213: -4929345520404200216
+    second: assetts_Barco_25
+  - first:
+      213: -8118503497927616358
+    second: assetts_Barco_26
+  - first:
+      213: -7099369860889829005
+    second: assetts_Barco_27
+  - first:
+      213: -7627313694556207701
+    second: assetts_Barco_28
+  - first:
+      213: -7106429500780829335
+    second: assetts_Barco_29
+  - first:
+      213: 6201366649207747341
+    second: assetts_Barco_30
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: assetts_Barco_1
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 335
+        width: 141
+        height: 307
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb4995c0dc384dbf0800000000000000
+      internalID: -300470358428248897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: assetts_Barco_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 80
+        width: 314
+        height: 247
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94a0098e72735d3c0800000000000000
+      internalID: -4335498421729228215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: assetts_Barco_3
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 5
+        width: 186
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ff17648f08b733f0800000000000000
+      internalID: -921065221988605964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: assetts_Barco_4
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 294
+        width: 422
+        height: 346
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c4cfc0852a092290800000000000000
+      internalID: -7914783713935768376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: assetts_Barco_5
+      rect:
+        serializedVersion: 2
+        x: 1085
+        y: 113
+        width: 180
+        height: 218
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 009786bf6bc1ed900800000000000000
+      internalID: 711037363398670592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: assetts_Barco_6
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 207
+        width: 234
+        height: 439
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85e89a9c37caa5c80800000000000000
+      internalID: -8333158547191132584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: assetts_Barco_7
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 395
+        width: 225
+        height: 245
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d62a4f8a33a49be0800000000000000
+      internalID: -1471371706335877419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 1f48e2793cb1b7b438c2a160f4230c05
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      assetts_Barco_0: 8573688460540751499
+      assetts_Barco_1: -300470358428248897
+      assetts_Barco_10: 1952739865690141480
+      assetts_Barco_11: 1824079979400580943
+      assetts_Barco_12: -1850591603936416938
+      assetts_Barco_13: 4312036786586416391
+      assetts_Barco_14: -3189147103668605129
+      assetts_Barco_15: 7174122546716037386
+      assetts_Barco_16: -7401646353963750192
+      assetts_Barco_17: -7063187919168381029
+      assetts_Barco_18: 8803008696516994611
+      assetts_Barco_19: -2212466593877290707
+      assetts_Barco_2: -4335498421729228215
+      assetts_Barco_20: 6591954494139730910
+      assetts_Barco_21: 2417848373747819390
+      assetts_Barco_22: 4904422553411757751
+      assetts_Barco_23: 6840453562453429249
+      assetts_Barco_24: -3100033048277316362
+      assetts_Barco_25: -4929345520404200216
+      assetts_Barco_26: -8118503497927616358
+      assetts_Barco_27: -7099369860889829005
+      assetts_Barco_28: -7627313694556207701
+      assetts_Barco_29: -7106429500780829335
+      assetts_Barco_3: -921065221988605964
+      assetts_Barco_30: 6201366649207747341
+      assetts_Barco_4: -7914783713935768376
+      assetts_Barco_5: 711037363398670592
+      assetts_Barco_6: -8333158547191132584
+      assetts_Barco_7: -1471371706335877419
+      assetts_Barco_8: 8432841515634495544
+      assetts_Barco_9: 1677125889780098873
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
