@@ -4921,11 +4921,11 @@ MonoBehaviour:
   segundosObjetivoVisible: 5
   revelarObjetivoAlResolver: 1
   calaveras:
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  calaveraViva: {fileID: -64189998, guid: 77c5b4399490c2042976cdd692481b58, type: 3}
-  calaveraFuego: {fileID: -569182889, guid: 77c5b4399490c2042976cdd692481b58, type: 3}
+  - {fileID: 660365916}
+  - {fileID: 1017066770}
+  - {fileID: 601921958}
+  calaveraViva: {fileID: -569182889, guid: 77c5b4399490c2042976cdd692481b58, type: 3}
+  calaveraFuego: {fileID: -64189998, guid: 77c5b4399490c2042976cdd692481b58, type: 3}
   maxErrores: 3
   errorPorGema: 0
   textoRecolectadas: {fileID: 0}
