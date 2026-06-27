@@ -1,3 +1,9 @@
+/**
+ * @author Claudia Chauque
+ * @email claudiachauque9@gmail.com
+ * @desc [Script para manejar el movimiento entre niveles]
+ */
+
 using UnityEngine;
 using UnityEngine.SceneManagement;
 

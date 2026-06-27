@@ -1,12 +1,19 @@
-using System;
+/**
+ * @author Claudia Chauque
+ * @email claudiachauque9@gmail.com
+ * @desc [Control del shake de la cámara. Se activa luego de tomar las gemas principales]
+ */
+
 using UnityEngine;
-using System.Collections;
 using Unity.Cinemachine;
 
 
 public class CameraShakeController : MonoBehaviour
 {
-    
+    [Header("Configuración inicial")]
+    [SerializeField] private float amplitude = 2f;
+    [SerializeField] private float frequency = 3f;
+
     private CinemachineBasicMultiChannelPerlin noise;
 
     private void Awake()
@@ -19,14 +26,32 @@ public class CameraShakeController : MonoBehaviour
         noise.FrequencyGain = 0;
     }
 
-    // Se toman los nuevos valores para el temblor
+    // Aplica nueva amplitud y frecuencia al temblor de la cámara.
     public void Shake(float amplitud, float frecuencia)
     {
         noise.AmplitudeGain = amplitud;
         noise.FrequencyGain = frecuencia;
     }
 
-    // Metodo para frenar el movimiento del temblor
+    // Metodo en respuesta al evento de inicio del derrumbe
+    private void StartShake()
+    {
+        Shake(amplitude, frequency);
+    }
+
+    // Se notifica cuando comience el derrumbe
+    private void OnEnable()
+    {
+        CollapseController.OnCollapseStarted += StartShake;
+    }
+
+    // Deja de recibir notifiaciones del derrumbe 
+    private void OnDisable()
+    {
+        CollapseController.OnCollapseStarted -= StartShake;
+    }
+
+    // Estabiliza la cámara reestableciendo los valores de amplitud y frecuencia
     public void StopShake()
     {
         noise.AmplitudeGain = 0f;

@@ -1,3 +1,9 @@
+/**
+ * @author Claudia Chauque
+ * @email claudiachauque9@gmail.com
+ * @desc [Script que maneja la interacción entre el jugador y los objetos interactuables (gemas)]
+ */
+
 using UnityEngine;
 using UnityEngine.InputSystem;
 
@@ -10,10 +16,7 @@ public class JugadorObjeto : MonoBehaviour
     [SerializeField] private Vector2 dimensionesCaja;
     [SerializeField] private LayerMask capasInteractuables;
 
-    // Manejo de camara luego de tomar las gemas
-    public CameraShakeController shakeController;
-
-    void Update()
+    private void Update()
     {
         if (Keyboard.current.eKey.wasPressedThisFrame)
         {
