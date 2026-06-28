@@ -1,3 +1,10 @@
+/**
+ * @author Eduardo Ortega
+ * @email eduardoortega@live.com.ar
+ * @create date 27-06-2026 23:59:08
+ * @modify date 27-06-2026 23:59:08
+ * @desc [description]
+ */
 using UnityEngine;
 using UnityEngine.EventSystems;
 using UnityEngine.SceneManagement;

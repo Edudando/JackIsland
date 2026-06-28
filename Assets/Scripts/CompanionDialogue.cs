@@ -1,3 +1,10 @@
+/**
+ * @author Eduardo Ortega
+ * @email eduardoortega@live.com.ar
+ * @create date 27-06-2026 23:58:26
+ * @modify date 27-06-2026 23:58:26
+ * @desc [description]
+ */
 using System.Collections;
 using UnityEngine;
 using TMPro;
