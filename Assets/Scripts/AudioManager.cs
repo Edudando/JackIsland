@@ -6,8 +6,14 @@ public class AudioManager : MonoBehaviour
 {
     public static AudioManager Instance { get; private set; }
 
+    [Header("Rutas EXACTAS de los buses (copialas de FMOD Studio > Mixer > Copy Path)")]
+    [SerializeField] private string rutaMusica = "bus:/Musica";
+    [SerializeField] private string rutaEfectos = "bus:/Efectos";
+
     private Bus musicaBus;
     private Bus efectosBus;
+    private bool musicaOk;
+    private bool efectosOk;
 
     private void Awake()
     {
@@ -19,14 +25,30 @@ public class AudioManager : MonoBehaviour
         Instance = this;
         DontDestroyOnLoad(gameObject);
 
-        musicaBus = RuntimeManager.GetBus("bus:/Musica");
-        efectosBus = RuntimeManager.GetBus("bus:/Efectos");
+        // Aseguramos que el Master Bank esté cargado antes de pedir los buses
+        RuntimeManager.LoadBank("Master", true);
+        RuntimeManager.LoadBank("Master.strings", true);
 
-        // Chequeo: isValid() te dice si el bus realmente existe
-        Debug.Log("Bus Musica válido: " + musicaBus.isValid());
-        Debug.Log("Bus Efectos válido: " + efectosBus.isValid());
+        musicaBus = ObtenerBus(rutaMusica, out musicaOk);
+        efectosBus = ObtenerBus(rutaEfectos, out efectosOk);
     }
-    
+
+    private Bus ObtenerBus(string ruta, out bool ok)
+    {
+        try
+        {
+            Bus b = RuntimeManager.GetBus(ruta);
+            ok = b.isValid();
+            if (!ok) Debug.LogWarning($"[AudioManager] El bus '{ruta}' no es válido. Revisá la ruta en FMOD Studio > Mixer.");
+            return b;
+        }
+        catch (BusNotFoundException)
+        {
+            ok = false;
+            Debug.LogWarning($"[AudioManager] No existe el bus '{ruta}'. Copiá la ruta exacta desde FMOD Studio > Mixer > Copy Path.");
+            return default;
+        }
+    }
 
     private void Start()
     {
@@ -34,16 +56,15 @@ public class AudioManager : MonoBehaviour
         SetEfectosVolume(PlayerPrefs.GetFloat("EfectosVolume", 1f));
     }
 
-    // El slider manda un valor 0-1 directo, FMOD lo toma como ganancia lineal
     public void SetMusicaVolume(float value)
     {
-        musicaBus.setVolume(value);
+        if (musicaOk) musicaBus.setVolume(value);
         PlayerPrefs.SetFloat("MusicaVolume", value);
     }
 
     public void SetEfectosVolume(float value)
     {
-        efectosBus.setVolume(value);
+        if (efectosOk) efectosBus.setVolume(value);
         PlayerPrefs.SetFloat("EfectosVolume", value);
     }
 }

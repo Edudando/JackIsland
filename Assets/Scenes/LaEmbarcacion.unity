@@ -276,10 +276,10 @@ MonoBehaviour:
   miSprite: {fileID: 0}
   sfxItemRecogido:
     Guid:
-      Data1: 134118135
-      Data2: 1233387196
-      Data3: 246306479
-      Data4: -1851320757
+      Data1: -1340720288
+      Data2: 1221371938
+      Data3: 958345609
+      Data4: -1688420995
     Path: event:/item _recogido
 --- !u!1 &28721461
 GameObject:
@@ -1733,10 +1733,10 @@ MonoBehaviour:
   miSprite: {fileID: 0}
   sfxItemRecogido:
     Guid:
-      Data1: 134118135
-      Data2: 1233387196
-      Data3: 246306479
-      Data4: -1851320757
+      Data1: -1340720288
+      Data2: 1221371938
+      Data3: 958345609
+      Data4: -1688420995
     Path: event:/item _recogido
 --- !u!212 &341370989
 SpriteRenderer:
@@ -1895,10 +1895,10 @@ MonoBehaviour:
   miSprite: {fileID: 0}
   sfxItemRecogido:
     Guid:
-      Data1: 134118135
-      Data2: 1233387196
-      Data3: 246306479
-      Data4: -1851320757
+      Data1: -1340720288
+      Data2: 1221371938
+      Data3: 958345609
+      Data4: -1688420995
     Path: event:/item _recogido
 --- !u!212 &344959246
 SpriteRenderer:
@@ -3066,10 +3066,10 @@ MonoBehaviour:
   miSprite: {fileID: 0}
   sfxItemRecogido:
     Guid:
-      Data1: 134118135
-      Data2: 1233387196
-      Data3: 246306479
-      Data4: -1851320757
+      Data1: -1340720288
+      Data2: 1221371938
+      Data3: 958345609
+      Data4: -1688420995
     Path: event:/item _recogido
 --- !u!212 &490981214
 SpriteRenderer:
@@ -3686,10 +3686,10 @@ MonoBehaviour:
   miSprite: {fileID: 0}
   sfxItemRecogido:
     Guid:
-      Data1: 134118135
-      Data2: 1233387196
-      Data3: 246306479
-      Data4: -1851320757
+      Data1: -1340720288
+      Data2: 1221371938
+      Data3: 958345609
+      Data4: -1688420995
     Path: event:/item _recogido
 --- !u!1 &586638625
 GameObject:
@@ -4423,10 +4423,10 @@ MonoBehaviour:
   miSprite: {fileID: 0}
   sfxItemRecogido:
     Guid:
-      Data1: 134118135
-      Data2: 1233387196
-      Data3: 246306479
-      Data4: -1851320757
+      Data1: -1340720288
+      Data2: 1221371938
+      Data3: 958345609
+      Data4: -1688420995
     Path: event:/item _recogido
 --- !u!1 &774894837
 GameObject:
@@ -4526,10 +4526,10 @@ MonoBehaviour:
   miSprite: {fileID: 0}
   sfxItemRecogido:
     Guid:
-      Data1: 134118135
-      Data2: 1233387196
-      Data3: 246306479
-      Data4: -1851320757
+      Data1: -1340720288
+      Data2: 1221371938
+      Data3: 958345609
+      Data4: -1688420995
     Path: event:/item _recogido
 --- !u!212 &774894841
 SpriteRenderer:
@@ -4757,25 +4757,25 @@ MonoBehaviour:
   playerMovement: {fileID: 1364089185}
   sfxItemCorrecto:
     Guid:
-      Data1: 1113066386
-      Data2: 1167248933
-      Data3: -639977312
-      Data4: 250366495
+      Data1: -920208141
+      Data2: 1243049317
+      Data3: 975559863
+      Data4: -192407218
     Path: event:/item_correcto
   sfxItemFail:
     Guid:
-      Data1: -535077151
-      Data2: 1109966205
-      Data3: 938912436
-      Data4: -404112494
+      Data1: 559307914
+      Data2: 1116766434
+      Data3: 387750320
+      Data4: 106811075
     Path: event:/item_fail
   sfxFinal:
     Guid:
-      Data1: 833498909
-      Data2: 1135399152
-      Data3: 1903182005
-      Data4: 1207608339
-    Path: event:/final_episodio
+      Data1: 1476006651
+      Data2: 1239232696
+      Data3: 1851523721
+      Data4: -768934858
+    Path: event:/Final_episodio
 --- !u!1 &825704187
 GameObject:
   m_ObjectHideFlags: 0
@@ -5279,10 +5279,10 @@ MonoBehaviour:
   miSprite: {fileID: 0}
   sfxItemRecogido:
     Guid:
-      Data1: 134118135
-      Data2: 1233387196
-      Data3: 246306479
-      Data4: -1851320757
+      Data1: -1340720288
+      Data2: 1221371938
+      Data3: 958345609
+      Data4: -1688420995
     Path: event:/item _recogido
 --- !u!1 &966347795
 GameObject:
@@ -6297,10 +6297,10 @@ MonoBehaviour:
   miSprite: {fileID: 0}
   sfxItemRecogido:
     Guid:
-      Data1: 134118135
-      Data2: 1233387196
-      Data3: 246306479
-      Data4: -1851320757
+      Data1: -1340720288
+      Data2: 1221371938
+      Data3: 958345609
+      Data4: -1688420995
     Path: event:/item _recogido
 --- !u!212 &1153353927
 SpriteRenderer:
@@ -7161,10 +7161,10 @@ MonoBehaviour:
   miSprite: {fileID: 0}
   sfxItemRecogido:
     Guid:
-      Data1: 134118135
-      Data2: 1233387196
-      Data3: 246306479
-      Data4: -1851320757
+      Data1: -1340720288
+      Data2: 1221371938
+      Data3: 958345609
+      Data4: -1688420995
     Path: event:/item _recogido
 --- !u!212 &1325707265
 SpriteRenderer:
@@ -9464,25 +9464,25 @@ MonoBehaviour:
   playerMovement: {fileID: 1364089185}
   sfxItemCorrecto:
     Guid:
-      Data1: 1113066386
-      Data2: 1167248933
-      Data3: -639977312
-      Data4: 250366495
+      Data1: -920208141
+      Data2: 1243049317
+      Data3: 975559863
+      Data4: -192407218
     Path: event:/item_correcto
   sfxItemFail:
     Guid:
-      Data1: -535077151
-      Data2: 1109966205
-      Data3: 938912436
-      Data4: -404112494
+      Data1: 559307914
+      Data2: 1116766434
+      Data3: 387750320
+      Data4: 106811075
     Path: event:/item_fail
   sfxFinal:
     Guid:
-      Data1: 833498909
-      Data2: 1135399152
-      Data3: 1903182005
-      Data4: 1207608339
-    Path: event:/final_episodio
+      Data1: 1476006651
+      Data2: 1239232696
+      Data3: 1851523721
+      Data4: -768934858
+    Path: event:/Final_episodio
   fraseSinItem: "\xA1Oye Jack, primero selecciona un \xEDtem de la barra!"
   fraseItemIncorrecto: "\xA1Eso no nos sirve para arreglar el bote, cabeza de alcornoque!"
 --- !u!1 &1862297798
@@ -9642,10 +9642,10 @@ MonoBehaviour:
   miSprite: {fileID: 0}
   sfxItemRecogido:
     Guid:
-      Data1: 134118135
-      Data2: 1233387196
-      Data3: 246306479
-      Data4: -1851320757
+      Data1: -1340720288
+      Data2: 1221371938
+      Data3: 958345609
+      Data4: -1688420995
     Path: event:/item _recogido
 --- !u!1 &1931941855
 GameObject:
@@ -10206,11 +10206,11 @@ MonoBehaviour:
   CollisionTag: 
   EventReference:
     Guid:
-      Data1: 560214466
-      Data2: 1289326502
-      Data3: 1453086340
-      Data4: -313241585
-    Path: event:/IslandAmbient
+      Data1: -1318419235
+      Data2: 1281410947
+      Data3: 24752819
+      Data4: -2134996763
+    Path: event:/audio_ambiente
   Event: 
   EventPlayTrigger: 1
   EventStopTrigger: 0

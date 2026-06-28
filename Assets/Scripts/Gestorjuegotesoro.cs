@@ -3,7 +3,9 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.Events;
 using UnityEngine.UI;
+using UnityEngine.SceneManagement;
 using TMPro;
+using FMODUnity;
 
 /// <summary>
 /// GESTOR del minijuego "El Tesoro" — VERSIÓN INTEGRADA AL INVENTARIO existente.
@@ -75,10 +77,23 @@ public class GestorJuegoTesoro : MonoBehaviour
     public float esperaAntesDeRevelar = 0.4f;
     public float esperaResultado = 1.4f;
 
+    [Header("═══ FINAL DEL JUEGO ═══")]
+    [Tooltip("Rondas acertadas necesarias para ganar.")]
+    [Min(1)] public int rondasParaGanar = 3;
+    [Tooltip("Sonido FMOD al GANAR (3 rondas).")]
+    public EventReference sfxVictoria;
+    [Tooltip("Sonido FMOD al PERDER (3 vidas).")]
+    public EventReference sfxDerrota;
+    [Tooltip("Nombre EXACTO de la escena de Portada (debe estar en Build Settings).")]
+    public string nombreEscenaPortada = "Portada";
+    [Tooltip("Segundos que esperamos (para que suene el FMOD) antes de volver a Portada.")]
+    public float esperaAntesDeVolver = 2.5f;
+
     [Header("═══ EVENTOS (FMOD, animaciones) ═══")]
     public UnityEvent alColocarGema;
     public UnityEvent alAcertarRonda;
     public UnityEvent alFallarRonda;
+    public UnityEvent alGanar;
     public UnityEvent alPerder;
 
     // ───────── Estado interno ─────────
@@ -238,8 +253,9 @@ public class GestorJuegoTesoro : MonoBehaviour
 
         yield return new WaitForSeconds(esperaResultado);
 
-        if (errores >= maxErrores) FinDelJuego();
-        else IniciarRonda();
+        if (errores >= maxErrores) { FinDelJuego(false); yield break; }       // perdió las 3 vidas
+        if (rondasGanadas >= rondasParaGanar) { FinDelJuego(true); yield break; } // ganó las 3 rondas
+        IniciarRonda();
     }
 
     /// <summary>Cuenta cuántas gemas colocadas coinciden con el objetivo (sin importar el orden).</summary>
@@ -263,7 +279,11 @@ public class GestorJuegoTesoro : MonoBehaviour
         if (errores >= maxErrores) return;
         if (calaveras != null && errores < calaveras.Length
             && calaveras[errores] != null && calaveraFuego != null)
+        {
             calaveras[errores].sprite = calaveraFuego;
+            calaveras[errores].color = Color.white;   // por si quedó transparente
+            calaveras[errores].enabled = true;
+        }
         errores++;
         ActualizarTextoErrores();
     }
@@ -272,7 +292,12 @@ public class GestorJuegoTesoro : MonoBehaviour
     {
         if (calaveras == null) return;
         foreach (var c in calaveras)
-            if (c != null && calaveraViva != null) c.sprite = calaveraViva;
+            if (c != null && calaveraViva != null)
+            {
+                c.sprite = calaveraViva;
+                c.color = Color.white;   // por si quedó transparente
+                c.enabled = true;
+            }
     }
 
     // ═════════════ OBJETIVO ═════════════
@@ -283,6 +308,7 @@ public class GestorJuegoTesoro : MonoBehaviour
             if (ranurasObjetivo[i] != null)
             {
                 ranurasObjetivo[i].sprite = spritesGemas[objetivo[i]];
+                ranurasObjetivo[i].color = Color.white;   // por si la Image quedó transparente (alpha 0)
                 ranurasObjetivo[i].enabled = true;
             }
     }
@@ -315,10 +341,46 @@ public class GestorJuegoTesoro : MonoBehaviour
 
     // ═════════════ FIN DEL JUEGO ═════════════
 
-    void FinDelJuego()
+    void FinDelJuego(bool gano)
     {
-        alPerder?.Invoke();
-        StartCoroutine(FundidoANegro());
+        rondaBloqueada = true;
+
+        if (gano)
+        {
+            alGanar?.Invoke();
+            ReproducirFMOD(sfxVictoria);
+            if (textoMensaje != null) textoMensaje.text = "¡GANASTE!";
+        }
+        else
+        {
+            alPerder?.Invoke();
+            ReproducirFMOD(sfxDerrota);
+            if (textoMensaje != null) textoMensaje.text = "¡PERDISTE!";
+        }
+
+        StartCoroutine(TerminarYVolverAPortada(gano));
+    }
+
+    IEnumerator TerminarYVolverAPortada(bool gano)
+    {
+        // En la derrota fundimos a negro; en la victoria lo dejamos pasar (podés enganchar
+        // tu propia animación de victoria en el evento alGanar).
+        if (!gano) yield return StartCoroutine(FundidoANegro());
+
+        // Esperamos (tiempo real) para que el sonido FMOD se escuche antes de cambiar de escena.
+        yield return new WaitForSecondsRealtime(esperaAntesDeVolver);
+
+        Time.timeScale = 1f;   // por las dudas, restauramos el tiempo
+        if (!string.IsNullOrEmpty(nombreEscenaPortada))
+            SceneManager.LoadScene(nombreEscenaPortada);
+        else
+            Debug.LogWarning("[Tesoro] No hay nombre de escena Portada asignado.");
+    }
+
+    void ReproducirFMOD(EventReference ev)
+    {
+        if (!ev.IsNull)
+            RuntimeManager.PlayOneShot(ev);
     }
 
     IEnumerator FundidoANegro()
@@ -339,8 +401,6 @@ public class GestorJuegoTesoro : MonoBehaviour
             }
             cg.alpha = 1f;
         }
-        // Si querés congelar todo al perder, descomentá:
-        // Time.timeScale = 0f;
     }
 
     // ═════════════ HELPERS DE NOMBRES ═════════════

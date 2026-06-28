@@ -623,11 +623,11 @@ MonoBehaviour:
   CollisionTag: 
   EventReference:
     Guid:
-      Data1: 234052968
-      Data2: 1226499924
-      Data3: -943275867
-      Data4: -1432727479
-    Path: event:/Portada
+      Data1: -1015979639
+      Data2: 1281601019
+      Data3: -879603545
+      Data4: -1043637803
+    Path: event:/portada
   Event: 
   EventPlayTrigger: 1
   EventStopTrigger: 2
@@ -966,6 +966,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c052c851d0791024da360366c0705b99, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::AudioManager
+  rutaMusica: bus:/Musica
+  rutaEfectos: bus:/Efectos
 --- !u!4 &548134111
 Transform:
   m_ObjectHideFlags: 0
